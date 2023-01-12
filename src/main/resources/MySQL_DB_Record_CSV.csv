@@ -1,0 +1,1001 @@
+OrderID,ItemType,SalesChannel,OrderPriority,City,State,Type,UnitsSold,UnitCost,UnitSellPrice,TotalRevenue,TotalCost,TotalProfit
+686800706,Cosmetics,Offline,M,Delhi,Delhi,Municipal Corporation / Corporation,8446,263.33,437.2,3692591.2,2224085.18,1468506.02
+185941302,Vegetables,Online,M,Bengaluru,Karnataka,Municipal Corporation / Corporation,3018,90.93,154.06,464953.08,274426.74,190526.34
+246222341,Baby Food,Offline,C,Ahmedabad,Gujarat,Municipal Corporation / Corporation.,1517,159.42,255.28,387259.76,241840.14,145419.62
+161442649,Cereal,Offline,C,Hyderabad,Telangana,Municipal Corporation / Corporation,3322,117.11,205.7,683335.4,389039.42,294295.98
+645713555,Fruits,Offline,H,Chennai,Tamil Nadu,Municipal Corporation / Corporation.,9845,6.92,9.33,91853.85,68127.4,23726.45
+683458888,Cereal,Online,H,Kolkata,West Bengal,Municipal Corporation / Corporation,9528,117.11,205.7,1959909.6,1115824.08,844085.52
+679414975,Cereal,Online,H,Pune,Maharashtra,Urban Agglomeration,2844,117.11,205.7,585010.8,333060.84,251949.96
+208630645,Clothes,Offline,M,Jaipur,Rajasthan,Municipal Corporation / Corporation,7299,35.84,109.28,797634.72,261596.16,536038.56
+266467225,Vegetables,Online,H,Surat,Gujarat,Municipal Corporation / Corporation.,2428,90.93,154.06,374057.68,220778.04,153279.64
+118598544,Vegetables,Offline,H,Lucknow,Uttar Pradesh,Municipal Corporation / Corporation,4800,90.93,154.06,739488,436464,303024
+451010930,Clothes,Online,M,Kanpur,Uttar Pradesh,Municipal Corporation / Corporation,3012,35.84,109.28,329151.36,107950.08,221201.28
+220003211,Snacks,Offline,M,Nagpur,Maharashtra,Municipal Corporation / Corporation,2694,97.44,152.58,411050.52,262503.36,148547.16
+702186715,Household,Online,C,Patna,Bihar,Municipal Corporation / Corporation.,1508,502.54,668.27,1007751.16,757830.32,249920.84
+544485270,Cosmetics,Online,C,Indore,Madhya Pradesh,Municipal Corporation / Corporation.,4146,263.33,437.2,1812631.2,1091766.18,720865.02
+714135205,Fruits,Offline,L,Thane,Maharashtra,Municipal Corporation / Corporation.,7332,6.92,9.33,68407.56,50737.44,17670.12
+448685348,Clothes,Offline,H,Bhopal,Madhya Pradesh,Municipal Corporation / Corporation.,4820,35.84,109.28,526729.6,172748.8,353980.8
+405997025,Office Supplies,Online,H,Visakhapatnam,Andhra Pradesh,Municipal Committee.,2397,524.96,651.21,1560950.37,1258329.12,302621.25
+414244067,Beverages,Online,M,Vadodara,Gujarat,Municipal Committee.,2880,31.79,47.45,136656,91555.2,45100.8
+821912801,Clothes,Online,C,Firozabad,Uttar Pradesh,Census town.,1117,35.84,109.28,122065.76,40033.28,82032.48
+247802054,Household,Offline,L,Ludhiana,Punjab,Municipal Corporation / Corporation.,8989,502.54,668.27,6007079.03,4517332.06,1489746.97
+531023156,Snacks,Online,C,Rajkot,Gujarat,Urban Agglomeration,407,97.44,152.58,62100.06,39658.08,22441.98
+880999934,Clothes,Online,L,Agra,Uttar Pradesh,Municipal Corporation / Corporation.,6313,35.84,109.28,689884.64,226257.92,463626.72
+127468717,Personal Care,Online,H,Siliguri,West Bengal,Municipal Corporation / Corporation.,9681,56.67,81.73,791228.13,548622.27,242605.86
+770478332,Clothes,Online,L,Nashik,Maharashtra,Municipal Corporation / Corporation,515,35.84,109.28,56279.2,18457.6,37821.6
+430390107,Cereal,Online,H,Faridabad,Haryana,Municipal Corporation / Corporation.,852,117.11,205.7,175256.4,99777.72,75478.68
+397877871,Beverages,Online,M,Patiala,Punjab,Municipal Corporation / Corporation.,9759,31.79,47.45,463064.55,310238.61,152825.94
+683927953,Beverages,Offline,M,Meerut,Uttar Pradesh,Municipal Corporation / Corporation,8334,31.79,47.45,395448.3,264937.86,130510.44
+469839179,Fruits,Offline,M,Kalyan-Dombivali,Maharashtra,Municipal Corporation / Corporation.,4709,6.92,9.33,43934.97,32586.28,11348.69
+357222878,Meat,Offline,H,Vasai-Virar,Maharashtra,Municipal Corporation / Corporation.,9043,364.69,421.89,3815151.27,3297891.67,517259.6
+118002879,Personal Care,Online,C,Varanasi,Uttar Pradesh,Municipal Corporation / Corporation.,8529,56.67,81.73,697075.17,483338.43,213736.74
+944415509,Beverages,Offline,C,Srinagar,Jammu and Kashmir,Urban Agglomeration,2391,31.79,47.45,113452.95,76009.89,37443.06
+499009597,Office Supplies,Online,H,Dhanbad,Jharkhand,Municipal Corporation / Corporation,6884,524.96,651.21,4482929.64,3613824.64,869105
+564646470,Fruits,Online,L,Jodhpur,Rajasthan,Municipal Corporation / Corporation,293,6.92,9.33,2733.69,2027.56,706.13
+294499957,Baby Food,Offline,M,Amritsar,Punjab,Municipal Corporation / Corporation.,7937,159.42,255.28,2026157.36,1265316.54,760840.82
+262056386,Beverages,Offline,L,Raipur,Chhattisgarh,Municipal Committee,7163,31.79,47.45,339884.35,227711.77,112172.58
+211114585,Office Supplies,Online,M,Allahabad,Uttar Pradesh,Municipality.,2352,524.96,651.21,1531645.92,1234705.92,296940
+405785882,Office Supplies,Offline,H,Coimbatore,Tamil Nadu,Municipal Corporation / Corporation,9915,524.96,651.21,6456747.15,5204978.4,1251768.75
+280494105,Vegetables,Offline,M,Jabalpur,Madhya Pradesh,Municipal Corporation / Corporation,3294,90.93,154.06,507473.64,299523.42,207950.22
+689975583,Baby Food,Online,L,Gwalior,Madhya Pradesh,Municipal Corporation / Corporation,7963,159.42,255.28,2032794.64,1269461.46,763333.18
+759279143,Office Supplies,Online,L,Vijayawada,Andhra Pradesh,Municipal Corporation / Corporation.,6426,524.96,651.21,4184675.46,3373392.96,811282.5
+133766114,Office Supplies,Offline,C,Madurai,Tamil Nadu,Municipal Corporation / Corporation,3221,524.96,651.21,2097547.41,1690896.16,406651.25
+329110324,Beverages,Online,M,Guwahati,Assam,Municipal Corporation / Corporation,9913,31.79,47.45,470371.85,315134.27,155237.58
+681298100,Meat,Online,L,Chandigarh,Chandigarh,Municipal Corporation / Corporation.,103,364.69,421.89,43454.67,37563.07,5891.6
+596628272,Snacks,Offline,L,Hubli-Dharwad,Karnataka,Municipal Corporation / Corporation,4419,97.44,152.58,674251.02,430587.36,243663.66
+901712167,Office Supplies,Offline,L,Amroha,Uttar Pradesh,Nagar Panchayat.,5523,524.96,651.21,3596632.83,2899354.08,697278.75
+693473613,Beverages,Online,M,Moradabad,Uttar Pradesh,Municipal Corporation / Corporation,3107,31.79,47.45,147427.15,98771.53,48655.62
+489148938,Meat,Online,C,Gurgaon,Haryana,Municipal Corporation / Corporation.,8896,364.69,421.89,3753133.44,3244282.24,508851.2
+876286971,Household,Online,L,Aligarh,Uttar Pradesh,Municipalityunicipal Corporation / Corporation.,1643,502.54,668.27,1097967.61,825673.22,272294.39
+262749040,Personal Care,Offline,H,Solapur,Maharashtra,Municipal Corporation / Corporation.,2135,56.67,81.73,174493.55,120990.45,53503.1
+726708972,Meat,Online,H,Ranchi,Jharkhand,Urban Agglomeration,8189,364.69,421.89,3454857.21,2986446.41,468410.8
+366653096,Vegetables,Online,L,Jalandhar,Punjab,Municipal Corporation / Corporation,9654,90.93,154.06,1487295.24,877838.22,609457.02
+951380240,Vegetables,Online,M,Tiruchirappalli,Tamil Nadu,Municipal Corporation / Corporation.,3410,90.93,154.06,525344.6,310071.3,215273.3
+270001733,Cosmetics,Online,M,Bhubaneswar,Odisha,Municipal Corporation / Corporation,8368,263.33,437.2,3658489.6,2203545.44,1454944.16
+681941401,Beverages,Online,C,Salem,Tamil Nadu,Municipal Corporation / Corporation,470,31.79,47.45,22301.5,14941.3,7360.2
+566935575,Fruits,Online,L,Warangal,Telangana,Municipal Corporation / Corporation.,7690,6.92,9.33,71747.7,53214.8,18532.9
+175033080,Snacks,Offline,M,Mira-Bhayandar,Maharashtra,Municipal Corporation / Corporation,5033,97.44,152.58,767935.14,490415.52,277519.62
+276595246,Office Supplies,Offline,L,Thiruvananthapuram,Kerala,Municipal Corporation / Corporation.,9535,524.96,651.21,6209287.35,5005493.6,1203793.75
+812295901,Office Supplies,Online,M,Bhiwandi,Maharashtra,Municipal Corporation / Corporation.,5263,524.96,651.21,3427318.23,2762864.48,664453.75
+443121373,Vegetables,Offline,C,Saharanpur,Uttar Pradesh,Municipal Corporation / Corporation,8316,90.93,154.06,1281162.96,756173.88,524989.08
+600370490,Personal Care,Offline,H,Guntur,Andhra Pradesh,Municipal Corporation / Corporation,1824,56.67,81.73,149075.52,103366.08,45709.44
+535654580,Office Supplies,Online,L,Amravati,Maharashtra,Municipal Corporation / Corporation,949,524.96,651.21,617998.29,498187.04,119811.25
+470897471,Cosmetics,Offline,H,Bikaner,Rajasthan,Municipal Corporation / Corporation.,7881,263.33,437.2,3445573.2,2075303.73,1370269.47
+248335492,Beverages,Offline,L,Noida,Uttar Pradesh,Census town,6846,31.79,47.45,324842.7,217634.34,107208.36
+680517470,Clothes,Offline,C,Jamshedpur,Jharkhand,Notified area committee / Notified Area Council ,9097,35.84,109.28,994120.16,326036.48,668083.68
+400304734,Personal Care,Online,M,Bhilai Nagar,Chhattisgarh,Municipal Corporation / Corporation,7921,56.67,81.73,647383.33,448883.07,198500.26
+810871112,Office Supplies,Offline,C,Cuttack,Odisha,Municipal Corporation / Corporation,3636,524.96,651.21,2367799.56,1908754.56,459045
+235702931,Cereal,Online,L,Kochi,Kerala,Municipal Corporation / Corporation,8590,117.11,205.7,1766963,1005974.9,760988.1
+668599021,Office Supplies,Offline,C,Udaipur,Rajasthan,Municipal Corporation / Corporation,2163,524.96,651.21,1408567.23,1135488.48,273078.75
+123670709,Baby Food,Online,M,Bhavnagar,Gujarat,Municipal Corporation / Corporation,5766,159.42,255.28,1471944.48,919215.72,552728.76
+285341823,Office Supplies,Online,L,Dehradun,Uttarakhand,Municipal Corporation / Corporation,7841,524.96,651.21,5106137.61,4116211.36,989926.25
+658348691,Fruits,Online,H,Asansol,West Bengal,Municipal Corporation / Corporation.,8862,6.92,9.33,82682.46,61325.04,21357.42
+817740142,Baby Food,Offline,L,Nanded-Waghala,Maharashtra,Municipal Corporation / Corporation.,6335,159.42,255.28,1617198.8,1009925.7,607273.1
+858877503,Beverages,Offline,H,Ajmer,Rajasthan,Municipal Corporation / Corporation.,9794,31.79,47.45,464725.3,311351.26,153374.04
+947434604,Vegetables,Offline,M,Jamnagar,Gujarat,Municipal Corporation / Corporation,5808,90.93,154.06,894780.48,528121.44,366659.04
+869397771,Meat,Offline,H,Ujjain,Madhya Pradesh,Municipal Corporation / Corporation.,2975,364.69,421.89,1255122.75,1084952.75,170170
+481065833,Personal Care,Offline,L,Sangli,Maharashtra,Urban Agglomeration,6925,56.67,81.73,565980.25,392439.75,173540.5
+159050118,Meat,Online,C,Loni,Uttar Pradesh,Nagar Panchayat,5319,364.69,421.89,2244032.91,1939786.11,304246.8
+350274455,Office Supplies,Online,M,Jhansi,Uttar Pradesh,Municipal Corporation / Corporation.,2850,524.96,651.21,1855948.5,1496136,359812.5
+221975171,Cereal,Online,L,Pondicherry,Puducherry,Urban Agglomeration,6241,117.11,205.7,1283773.7,730883.51,552890.19
+811701095,Office Supplies,Online,C,Nellore,Andhra Pradesh,Municipal Corporation / Corporation,9247,524.96,651.21,6021738.87,4854305.12,1167433.75
+977313554,Cereal,Online,L,Jammu,Jammu and Kashmir,Municipal Committee,7653,117.11,205.7,1574222.1,896242.83,677979.27
+546986377,Snacks,Offline,L,Belagavi,Karnataka,Municipal Corporation / Corporation.,4279,97.44,152.58,652889.82,416945.76,235944.06
+769205892,Fruits,Offline,L,Raurkela,Odisha,Municipal Corporation / Corporation,3972,6.92,9.33,37058.76,27486.24,9572.52
+262770926,Clothes,Offline,M,Mangaluru,Karnataka,Municipal Corporation / Corporation,8611,35.84,109.28,941010.08,308618.24,632391.84
+866792809,Snacks,Online,M,Tirunelveli,Tamil Nadu,Municipal Corporation / Corporation.,2109,97.44,152.58,321791.22,205500.96,116290.26
+890695369,Beverages,Offline,C,Malegaon,Maharashtra,Municipal Corporation / Corporation,5408,31.79,47.45,256609.6,171920.32,84689.28
+964214932,Cereal,Offline,M,Gaya,Bihar,Municipal Corporation / Corporation.,1480,117.11,205.7,304436,173322.8,131113.2
+887400329,Snacks,Online,C,Tiruppur,Tamil Nadu,Municipal Corporation / Corporation,332,97.44,152.58,50656.56,32350.08,18306.48
+980612885,Beverages,Offline,M,Davanagere,Karnataka,Municipal Corporation / Corporation.,3999,31.79,47.45,189752.55,127128.21,62624.34
+734526431,Clothes,Offline,M,Kozhikode,Kerala,Municipal Corporation / Corporation,1549,35.84,109.28,169274.72,55516.16,113758.56
+160127294,Baby Food,Online,L,Akola,Maharashtra,Municipal Corporation / Corporation.,4079,159.42,255.28,1041287.12,650274.18,391012.94
+238714301,Clothes,Offline,L,Kurnool,Andhra Pradesh,Municipal Corporation / Corporation,9721,35.84,109.28,1062310.88,348400.64,713910.24
+671898782,Household,Online,M,Bokaro Steel City,Jharkhand,Census town,8635,502.54,668.27,5770511.45,4339432.9,1431078.55
+331604564,Personal Care,Offline,H,Rajahmundry,Andhra Pradesh,Urban Agglomeration,8014,56.67,81.73,654984.22,454153.38,200830.84
+410067975,Cereal,Online,M,Ballari,Karnataka,Municipal Corporation / Corporation.,7081,117.11,205.7,1456561.7,829255.91,627305.79
+369837844,Snacks,Offline,L,Agartala,Tripura,Municipal Corporation / Corporation.,2091,97.44,152.58,319044.78,203747.04,115297.74
+193775498,Fruits,Online,L,Bhagalpur,Bihar,Municipal Corporation / Corporation.,1331,6.92,9.33,12418.23,9210.52,3207.71
+835054767,Clothes,Online,M,Latur,Maharashtra,Municipal Council,117,35.84,109.28,12785.76,4193.28,8592.48
+167161977,Household,Offline,C,Dhule,Maharashtra,Municipal Corporation / Corporation,5798,502.54,668.27,3874629.46,2913726.92,960902.54
+633895957,Vegetables,Offline,C,Korba,Chhattisgarh,Municipal Corporation / Corporation.,2755,90.93,154.06,424435.3,250512.15,173923.15
+699368035,Clothes,Offline,C,Bhilwara,Rajasthan,Municipality,7398,35.84,109.28,808453.44,265144.32,543309.12
+698002040,Vegetables,Offline,L,Brahmapur,Odisha,Municipal Corporation / Corporation,3170,90.93,154.06,488370.2,288248.1,200122.1
+584534299,Snacks,Offline,H,Mysore,Karnatka,Municipal Corporation / Corporation.,5544,97.44,152.58,845903.52,540207.36,305696.16
+384013640,Vegetables,Online,L,Muzaffarpur,Bihar,Municipal Corporation / Corporation.,7025,90.93,154.06,1082271.5,638783.25,443488.25
+641801393,Personal Care,Online,M,Ahmednagar,Maharashtra,Municipal Corporation / Corporation.,2149,56.67,81.73,175637.77,121783.83,53853.94
+173571383,Personal Care,Online,M,Kollam,Kerala,Municipal Corporation / Corporation,2484,56.67,81.73,203017.32,140768.28,62249.04
+115309941,Snacks,Offline,H,Raghunathganj,West Bengal,Municipality,1629,97.44,152.58,248552.82,158729.76,89823.06
+773315894,Cosmetics,Offline,L,Bilaspur,Chhattisgarh,Municipal Corporation / Corporation,213,263.33,437.2,93123.6,56089.29,37034.31
+274200570,Beverages,Online,M,Shahjahanpur,Uttar Pradesh,Urban Agglomeration,897,31.79,47.45,42562.65,28515.63,14047.02
+414887797,Clothes,Offline,M,Thrissur,Kerala,Municipal Corporation / Corporation.,3374,35.84,109.28,368710.72,120924.16,247786.56
+812613904,Beverages,Offline,L,Alwar,Rajasthan,Municipal Council,9367,31.79,47.45,444464.15,297776.93,146687.22
+254927718,Baby Food,Online,H,Kakinada,Andhra Pradesh,Municipal Corporation / Corporation,7632,159.42,255.28,1948296.96,1216693.44,731603.52
+749690568,Beverages,Offline,M,Nizamabad,Telangana,Municipal Corporation / Corporation,8954,31.79,47.45,424867.3,284647.66,140219.64
+775076282,Cereal,Offline,C,Sagar,Madhya Pradesh,Urban Agglomeration,1150,117.11,205.7,236555,134676.5,101878.5
+229571187,Office Supplies,Online,H,Tumkur,Karnataka,City Municipal Council,4071,524.96,651.21,2651075.91,2137112.16,513963.75
+881974112,Baby Food,Online,C,Hisar,Haryana,Municipal Council,4594,159.42,255.28,1172756.32,732375.48,440380.84
+521396386,Snacks,Online,L,Rohtak,Haryana,Municipal Corporation / Corporation.,1632,97.44,152.58,249010.56,159022.08,89988.48
+607261836,Household,Online,C,Panipat,Haryana,Municipal Council,1127,502.54,668.27,753140.29,566362.58,186777.71
+419306790,Vegetables,Online,M,Darbhanga,Bihar,Municipal Corporation / Corporation.,1052,90.93,154.06,162071.12,95658.36,66412.76
+207580077,Meat,Offline,H,Kharagpur,West Bengal,Municipality/Industrial Township,6413,364.69,421.89,2705580.57,2338756.97,366823.6
+742443025,Snacks,Online,M,Aizawl,Mizoram,Notified Town,4245,97.44,152.58,647702.1,413632.8,234069.3
+164569461,Snacks,Offline,M,Ichalkaranji,Maharashtra,Municipal Council,8615,97.44,152.58,1314476.7,839445.6,475031.1
+734945714,Baby Food,Online,L,Tirupati,Andhra Pradesh,Municipal Corporation / Corporation.,5624,159.42,255.28,1435694.72,896578.08,539116.64
+284870612,Clothes,Offline,C,Karnal,Haryana,Municipal Council,8399,35.84,109.28,917842.72,301020.16,616822.56
+765955483,Fruits,Offline,M,Bathinda,Punjab,Municipal Corporation / Corporation,2104,6.92,9.33,19630.32,14559.68,5070.64
+600124156,Snacks,Offline,H,Rampur,Uttar Pradesh,Municipal board,8929,97.44,152.58,1362386.82,870041.76,492345.06
+529612958,Household,Offline,L,Shivamogga,Karnataka,City Municipal Council,3098,502.54,668.27,2070300.46,1556868.92,513431.54
+466970717,Clothes,Offline,H,Ratlam,Madhya Pradesh,Urban Agglomeration,5867,35.84,109.28,641145.76,210273.28,430872.48
+845058763,Cosmetics,Online,C,Modinagar,Uttar Pradesh,Municipality,522,263.33,437.2,228218.4,137458.26,90760.14
+367050921,Snacks,Offline,L,Durg,Chhattisgarh,Municipal Corporation / Corporation,7379,97.44,152.58,1125887.82,719009.76,406878.06
+956433522,Office Supplies,Online,L,Shillong,Meghalaya,Urban Agglomeration,8788,524.96,651.21,5722833.48,4613348.48,1109485
+107005393,Beverages,Online,C,Imphal,Manipur,Municipal Council,4129,31.79,47.45,195921.05,131260.91,64660.14
+332877862,Beverages,Offline,C,Hapur,Uttar Pradesh,Nagar Palika Parishad,4811,31.79,47.45,228281.95,152941.69,75340.26
+618474757,Baby Food,Online,L,Ranipet,Tamil Nadu,Urban Agglomeration,9279,159.42,255.28,2368743.12,1479258.18,889484.94
+468532407,Household,Online,M,Anantapur,Andhra Pradesh,Municipal Corporation / Corporation.,8006,502.54,668.27,5350169.62,4023335.24,1326834.38
+358099639,Office Supplies,Offline,M,Arrah,Bihar,Municipal Corporation / Corporation.,8496,524.96,651.21,5532680.16,4460060.16,1072620
+382537782,Household,Online,H,Karimnagar,Telangana,Municipal Corporation / Corporation,285,502.54,668.27,190456.95,143223.9,47233.05
+707520663,Personal Care,Offline,H,Parbhani,Maharashtra,Municipal Council,9942,56.67,81.73,812559.66,563413.14,249146.52
+219034612,Meat,Online,M,Etawah,Uttar Pradesh,Nagar Palika Parishad,6064,364.69,421.89,2558340.96,2211480.16,346860.8
+573378455,Meat,Offline,M,Bharatpur,Rajasthan,Municipal Corporation / Corporation.,4281,364.69,421.89,1806111.09,1561237.89,244873.2
+347163522,Personal Care,Online,H,Begusarai,Bihar,Municipal Corporation / Corporation.,2256,56.67,81.73,184382.88,127847.52,56535.36
+887313640,Snacks,Offline,M,New Delhi,Delhi,Municipal Council,4679,97.44,152.58,713921.82,455921.76,258000.06
+461065137,Cosmetics,Online,H,Chhapra,Bihar,Municipal Corporation / Corporation,8275,263.33,437.2,3617830,2179055.75,1438774.25
+105966842,Fruits,Offline,H,Kadapa,Andhra Pradesh,Municipal Corporation / Corporation,6798,6.92,9.33,63425.34,47042.16,16383.18
+479880082,Baby Food,Online,M,Ramagundam,Telangana,Municipal Corporation / Corporation,6035,159.42,255.28,1540614.8,962099.7,578515.1
+510978686,Baby Food,Online,H,Pali,Rajasthan,Municipal Council,8803,159.42,255.28,2247229.84,1403374.26,843855.58
+547748982,Snacks,Offline,C,Satna,Madhya Pradesh,Urban Agglomeration,9951,97.44,152.58,1518323.58,969625.44,548698.14
+108989799,Cereal,Offline,M,Vizianagaram,Andhra Pradesh,Municipality,1358,117.11,205.7,279340.6,159035.38,120305.22
+133812463,Cereal,Offline,M,Katihar,Bihar,Municipal Corporation / Corporation,6936,117.11,205.7,1426735.2,812274.96,614460.24
+731640803,Fruits,Offline,L,Hardwar,Uttarakhand,Nagar Palika Parishad,7627,6.92,9.33,71159.91,52778.84,18381.07
+732211148,Snacks,Offline,C,Sonipat,Haryana,Urban Agglomeration,6405,97.44,152.58,977274.9,624103.2,353171.7
+835572326,Cereal,Online,M,Nagercoil,Tamil Nadu,Municipality,3274,117.11,205.7,673461.8,383418.14,290043.66
+462085664,Baby Food,Offline,C,Thanjavur,Tamil Nadu,Municipality,271,159.42,255.28,69180.88,43202.82,25978.06
+902424991,Clothes,Online,C,Murwara (Katni),Madhya Pradesh,Municipal Corporation / Corporation,6463,35.84,109.28,706276.64,231633.92,474642.72
+367576634,Fruits,Offline,H,Naihati,West Bengal,Municipality,2949,6.92,9.33,27514.17,20407.08,7107.09
+738839423,Meat,Offline,H,Sambhal,Uttar Pradesh,Nagar Palika Parishad,7859,364.69,421.89,3315633.51,2866098.71,449534.8
+817824685,Baby Food,Online,C,Nadiad,Gujarat,Municipality,1353,159.42,255.28,345393.84,215695.26,129698.58
+376456248,Snacks,Online,C,Yamunanagar,Haryana,Municipal Council,624,97.44,152.58,95209.92,60802.56,34407.36
+606970441,Office Supplies,Online,H,English Bazar,West Bengal,Municipality,4897,524.96,651.21,3188975.37,2570729.12,618246.25
+971916091,Meat,Offline,L,Eluru,Andhra Pradesh,Municipal Corporation / Corporation.,424,364.69,421.89,178881.36,154628.56,24252.8
+554154527,Office Supplies,Offline,L,Munger,Bihar,Municipal Corporation / Corporation,5494,524.96,651.21,3577747.74,2884130.24,693617.5
+306859576,Household,Online,L,Panchkula,Haryana,Municipal Council,5423,502.54,668.27,3624028.21,2725274.42,898753.79
+803517568,Personal Care,Offline,L,Raayachuru,Karnataka,City Municipal Council,7559,56.67,81.73,617797.07,428368.53,189428.54
+887927329,Office Supplies,Online,C,Panvel,Maharashtra,Municipal Council,6283,524.96,651.21,4091552.43,3298323.68,793228.75
+824200189,Vegetables,Online,H,Deoghar,Jharkhand,Municipal Corporation / Corporation,8006,90.93,154.06,1233404.36,727985.58,505418.78
+946759974,Office Supplies,Online,H,Ongole,Andhra Pradesh,Municipality,6170,524.96,651.21,4017965.7,3239003.2,778962.5
+310343015,Clothes,Offline,H,Nandyal,Andhra Pradesh,Municipality,6249,35.84,109.28,682890.72,223964.16,458926.56
+739998137,Vegetables,Online,C,Morena,Madhya Pradesh,Municipality,748,90.93,154.06,115236.88,68015.64,47221.24
+981086671,Beverages,Online,H,Bhiwani,Haryana,Municipal Council,4203,31.79,47.45,199432.35,133613.37,65818.98
+749282443,Office Supplies,Offline,L,Porbandar,Gujarat,Urban Agglomeration,8180,524.96,651.21,5326897.8,4294172.8,1032725
+280571782,Office Supplies,Online,C,Palakkad,Kerala,Urban Agglomeration,6280,524.96,651.21,4089598.8,3296748.8,792850
+781253516,Household,Online,C,Anand,Gujarat,Municipality,9131,502.54,668.27,6101973.37,4588692.74,1513280.63
+377938973,Personal Care,Online,H,Purnia,Bihar,Municipal Corporation / Corporation.,9396,56.67,81.73,767935.08,532471.32,235463.76
+867551982,Clothes,Offline,C,Baharampur,West Bengal,Municipality,6765,35.84,109.28,739279.2,242457.6,496821.6
+967328870,Personal Care,Offline,C,Barmer,Rajasthan,Nagar Parishad,2964,56.67,81.73,242247.72,167969.88,74277.84
+364818465,Office Supplies,Offline,C,Morvi,Gujarat,Municipality,6746,524.96,651.21,4393062.66,3541380.16,851682.5
+167882096,Office Supplies,Online,C,Orai,Uttar Pradesh,Nagar Palika Parishad.,8898,524.96,651.21,5794466.58,4671094.08,1123372.5
+654693591,Clothes,Online,H,Bahraich,Uttar Pradesh,Nagar Palika Parishad,7237,35.84,109.28,790859.36,259374.08,531485.28
+823739278,Personal Care,Offline,H,Sikar,Rajasthan,Urban Agglomeration,1612,56.67,81.73,131748.76,91352.04,40396.72
+643817985,Beverages,Offline,L,Vellore,Tamil Nadu,Municipal Corporation / Corporation.,8904,31.79,47.45,422494.8,283058.16,139436.64
+604041039,Personal Care,Offline,H,Singrauli,Madhya Pradesh,Municipal Corporation / Corporation.,8022,56.67,81.73,655638.06,454606.74,201031.32
+363832271,Personal Care,Online,H,Khammam,Telangana,Municipal Corporation / Corporation,4909,56.67,81.73,401212.57,278193.03,123019.54
+102928006,Personal Care,Online,L,Mahesana,Gujarat,Municipality,7539,56.67,81.73,616162.47,427235.13,188927.34
+971377074,Office Supplies,Offline,M,Silchar,Assam,Urban Agglomeration,917,524.96,651.21,597159.57,481388.32,115771.25
+139540803,Meat,Online,L,Sambalpur,Odisha,Municipal Corporation / Corporation.,2079,364.69,421.89,877109.31,758190.51,118918.8
+248093020,Meat,Offline,M,Rewa,Madhya Pradesh,Municipal Corporation / Corporation.,5093,364.69,421.89,2148685.77,1857366.17,291319.6
+858020055,Snacks,Offline,L,Unnao,Uttar Pradesh,Nagar Palika Parishad.,6056,97.44,152.58,924024.48,590096.64,333927.84
+700620734,Baby Food,Offline,H,Hugli-Chinsurah,West Bengal,Municipality,8099,159.42,255.28,2067512.72,1291142.58,776370.14
+827506387,Cosmetics,Offline,L,Raiganj,West Bengal,Urban Agglomeration,6384,263.33,437.2,2791084.8,1681098.72,1109986.08
+560600841,Household,Online,M,Phusro,Jharkhand,Urban Agglomeration,3101,502.54,668.27,2072305.27,1558376.54,513928.73
+642140424,Personal Care,Offline,H,Adityapur,Jharkhand,Nagar Panchayat.,2476,56.67,81.73,202363.48,140314.92,62048.56
+984673964,Baby Food,Offline,C,Alappuzha,Kerala,Municipality,5763,159.42,255.28,1471178.64,918737.46,552441.18
+221062791,Beverages,Online,L,Bahadurgarh,Haryana,Municipal Council,6247,31.79,47.45,296420.15,198592.13,97828.02
+654480731,Vegetables,Offline,L,Machilipatnam,Andhra Pradesh,Municipality,4247,90.93,154.06,654292.82,386179.71,268113.11
+608414113,Beverages,Offline,C,Rae Bareli,Uttar Pradesh,Municipal board,2111,31.79,47.45,100166.95,67108.69,33058.26
+276661765,Household,Online,L,Jalpaiguri,West Bengal,Municipal Corporation / Corporation,9219,502.54,668.27,6160781.13,4632916.26,1527864.87
+373335015,Baby Food,Online,L,Bharuch,Gujarat,Municipality,6982,159.42,255.28,1782364.96,1113070.44,669294.52
+782857692,Clothes,Online,L,Pathankot,Punjab,Urban Agglomeration,3843,35.84,109.28,419963.04,137733.12,282229.92
+109966123,Fruits,Online,H,Hoshiarpur,Punjab,Municipal Council,274,6.92,9.33,2556.42,1896.08,660.34
+629709136,Cereal,Offline,M,Baramula,Jammu and Kashmir,Municipal Council,3782,117.11,205.7,777957.4,442910.02,335047.38
+637448060,Personal Care,Online,L,Adoni,Andhra Pradesh,Municipality,3901,56.67,81.73,318828.73,221069.67,97759.06
+298856723,Baby Food,Online,H,Jind,Haryana,Municipal Council,7200,159.42,255.28,1838016,1147824,690192
+299921452,Household,Offline,L,Tonk,Rajasthan,Municipal Council,2278,502.54,668.27,1522319.06,1144786.12,377532.94
+496941077,Personal Care,Offline,M,Tenali,Andhra Pradesh,Municipality,4763,56.67,81.73,389279.99,269919.21,119360.78
+366526925,Snacks,Online,L,Kancheepuram,Tamil Nadu,Municipality,2317,97.44,152.58,353527.86,225768.48,127759.38
+355602824,Meat,Offline,M,Vapi,Gujarat,Municipality,9633,364.69,421.89,4064066.37,3513058.77,551007.6
+531405103,Vegetables,Online,C,Sirsa,Haryana,Municipal Council,3434,90.93,154.06,529042.04,312253.62,216788.42
+131482589,Vegetables,Offline,M,Navsari,Gujarat,Municipality,7475,90.93,154.06,1151598.5,679701.75,471896.75
+713696610,Cereal,Online,L,Mahbubnagar,Telangana,Municipality,7542,117.11,205.7,1551389.4,883243.62,668145.78
+306220996,Vegetables,Online,C,Puri,Odisha,Municipality,6452,90.93,154.06,993995.12,586680.36,407314.76
+157542073,Household,Offline,L,Robertson Pet,Karnataka,Urban Agglomeration,9055,502.54,668.27,6051184.85,4550499.7,1500685.15
+686458671,Personal Care,Online,L,Erode,Tamil Nadu,Municipal Corporation / Corporation.,7230,56.67,81.73,590907.9,409724.1,181183.8
+132082116,Office Supplies,Online,M,Batala,Punjab,Municipal Council,4888,524.96,651.21,3183114.48,2566004.48,617110
+403836238,Clothes,Online,L,Haldwani-cum-Kathgodam,Uttarakhand,Nagar Palika Parishad,2972,35.84,109.28,324780.16,106516.48,218263.68
+331457364,Household,Online,C,Vidisha,Madhya Pradesh,Municipality,4455,502.54,668.27,2977142.85,2238815.7,738327.15
+614994323,Meat,Online,H,Saharsa,Bihar,Nagar Panchayat,9341,364.69,421.89,3940874.49,3406569.29,534305.2
+674808442,Fruits,Offline,L,Thanesar,Haryana,Municipal Council,9669,6.92,9.33,90211.77,66909.48,23302.29
+901573550,Baby Food,Offline,L,Chittoor,Andhra Pradesh,Municipal Corporation / Corporation.,4503,159.42,255.28,1149525.84,717868.26,431657.58
+406275975,Clothes,Online,L,Veraval,Gujarat,Municipality,4944,35.84,109.28,540280.32,177192.96,363087.36
+170214545,Vegetables,Online,C,Lakhimpur,Uttar Pradesh,Nagar Palika Parishad,9121,90.93,154.06,1405181.26,829372.53,575808.73
+795000588,Personal Care,Offline,C,Sitapur,Uttar Pradesh,Municipal board,7196,56.67,81.73,588129.08,407797.32,180331.76
+252557933,Fruits,Offline,C,Hindupur,Andhra Pradesh,Municipality,6360,6.92,9.33,59338.8,44011.2,15327.6
+635122907,Baby Food,Offline,M,Santipur,West Bengal,Municipality,5837,159.42,255.28,1490069.36,930534.54,559534.82
+505244338,Vegetables,Online,C,Balurghat,West Bengal,Municipality,1882,90.93,154.06,289940.92,171130.26,118810.66
+745783555,Clothes,Offline,H,Ganjbasoda,Madhya Pradesh,Nagar Panchayat.,2782,35.84,109.28,304016.96,99706.88,204310.08
+509914386,Snacks,Offline,M,Moga,Punjab,Municipal Council,3853,97.44,152.58,587890.74,375436.32,212454.42
+371123158,Household,Online,M,Proddatur,Andhra Pradesh,Municipality,2445,502.54,668.27,1633920.15,1228710.3,405209.85
+973208701,Household,Online,H,Srinagar,Uttarakhand,,2936,502.54,668.27,1962040.72,1475457.44,486583.28
+780282342,Baby Food,Online,L,Medinipur,West Bengal,Municipality,1739,159.42,255.28,443931.92,277231.38,166700.54
+126767909,Clothes,Online,H,Habra,West Bengal,Municipality,2296,35.84,109.28,250906.88,82288.64,168618.24
+767401731,Baby Food,Online,M,Sasaram,Bihar,Nagar Panchayat,80,159.42,255.28,20422.4,12753.6,7668.8
+927232635,Personal Care,Online,L,Hajipur,Bihar,Nagar Panchayat,7597,56.67,81.73,620902.81,430521.99,190380.82
+251621949,Meat,Offline,M,Bhuj,Gujarat,Municipality,9381,364.69,421.89,3957750.09,3421156.89,536593.2
+256243503,Office Supplies,Offline,H,Shivpuri,Madhya Pradesh,Municipality,7002,524.96,651.21,4559772.42,3675769.92,884002.5
+277083623,Cosmetics,Offline,C,Ranaghat,West Bengal,Urban Agglomeration,4056,263.33,437.2,1773283.2,1068066.48,705216.72
+620441138,Vegetables,Offline,L,Shimla,Himachal Pradesh,Urban Agglomeration,1175,90.93,154.06,181020.5,106842.75,74177.75
+312927377,Office Supplies,Offline,M,Tiruvannamalai,Tamil Nadu,Municipality,1020,524.96,651.21,664234.2,535459.2,128775
+251466166,Baby Food,Offline,L,Kaithal,Haryana,Municipal Council,3282,159.42,255.28,837828.96,523216.44,314612.52
+953293836,Office Supplies,Online,H,Rajnandgaon,Chhattisgarh,Municipal Corporation / Corporation.,9685,524.96,651.21,6306968.85,5084237.6,1222731.25
+305959212,Cereal,Online,C,Godhra,Gujarat,Municipality,8985,117.11,205.7,1848214.5,1052233.35,795981.15
+317323625,Cereal,Online,L,Hazaribag,Jharkhand,Nagar Panchayat,1967,117.11,205.7,404611.9,230355.37,174256.53
+365560901,Household,Offline,L,Bhimavaram,Andhra Pradesh,Municipality,6449,502.54,668.27,4309673.23,3240880.46,1068792.77
+349157369,Baby Food,Online,M,Mandsaur,Madhya Pradesh,Municipality,2279,159.42,255.28,581783.12,363318.18,218464.94
+236911857,Baby Food,Online,L,Dibrugarh,Assam,Municipal board,6338,159.42,255.28,1617964.64,1010403.96,607560.68
+517935693,Personal Care,Offline,H,Kolar,Karnataka,City Municipal Council,7536,56.67,81.73,615917.28,427065.12,188852.16
+851652705,Clothes,Offline,C,Bankura,West Bengal,Municipality,1816,35.84,109.28,198452.48,65085.44,133367.04
+517799222,Cereal,Offline,M,Mandya,Karnataka,City Municipal Council,7151,117.11,205.7,1470960.7,837453.61,633507.09
+666424071,Office Supplies,Offline,C,Dehri-on-Sone,Bihar,Nagar Panchayat,8547,524.96,651.21,5565891.87,4486833.12,1079058.75
+267888581,Fruits,Offline,C,Madanapalle,Andhra Pradesh,Municipality,3039,6.92,9.33,28353.87,21029.88,7323.99
+162866580,Vegetables,Online,L,Malerkotla,Punjab,Municipal Council,4695,90.93,154.06,723311.7,426916.35,296395.35
+812344396,Beverages,Offline,H,Lalitpur,Uttar Pradesh,Nagar Palika Parishad,9614,31.79,47.45,456184.3,305629.06,150555.24
+947620856,Meat,Online,M,Bettiah,Bihar,Nagar Panchayat,924,364.69,421.89,389826.36,336973.56,52852.8
+720307290,Vegetables,Online,H,Pollachi,Tamil Nadu,Urban Agglomeration,3789,90.93,154.06,583733.34,344533.77,239199.57
+352327525,Household,Online,H,Khanna,Punjab,Municipal Council,399,502.54,668.27,266639.73,200513.46,66126.27
+585917890,Household,Online,C,Neemuch,Madhya Pradesh,Municipality,4979,502.54,668.27,3327316.33,2502146.66,825169.67
+433627212,Meat,Offline,L,Palwal,Haryana,Municipal Council,8783,364.69,421.89,3705459.87,3203072.27,502387.6
+328316819,Beverages,Online,C,Palanpur,Gujarat,Municipality,5098,31.79,47.45,241900.1,162065.42,79834.68
+773160541,Cereal,Offline,C,Guntakal,Andhra Pradesh,Municipality,4240,117.11,205.7,872168,496546.4,375621.6
+991644704,Household,Online,M,Nabadwip,West Bengal,Municipality,8559,502.54,668.27,5719722.93,4301239.86,1418483.07
+277568137,Meat,Online,M,Udupi,Karnataka,City Municipal Council.,7435,364.69,421.89,3136752.15,2711470.15,425282
+245042169,Fruits,Online,C,Jagdalpur,Chhattisgarh,Municipal Corporation / Corporation,2278,6.92,9.33,21253.74,15763.76,5489.98
+778490626,Household,Online,M,Motihari,Bihar,Nagar Panchayat,1531,502.54,668.27,1023121.37,769388.74,253732.63
+482649838,Baby Food,Online,C,Pilibhit,Uttar Pradesh,Municipal board,5668,159.42,255.28,1446927.04,903592.56,543334.48
+732568633,Beverages,Online,L,Dimapur,Nagaland,Municipal Committee,2193,31.79,47.45,104057.85,69715.47,34342.38
+723608338,Household,Online,M,Mohali,Punjab,Municipal Council,642,502.54,668.27,429029.34,322630.68,106398.66
+621442782,Household,Offline,H,Sadulpur,Rajasthan,Municipality,7584,502.54,668.27,5068159.68,3811263.36,1256896.32
+212058293,Baby Food,Offline,M,Rajapalayam,Tamil Nadu,Municipality,1616,159.42,255.28,412532.48,257622.72,154909.76
+251753699,Snacks,Offline,L,Dharmavaram,Andhra Pradesh,Municipality,8369,97.44,152.58,1276942.02,815475.36,461466.66
+217140328,Fruits,Online,M,Kashipur,Uttarakhand,Nagar Palika Parishad.,5503,6.92,9.33,51342.99,38080.76,13262.23
+555142009,Vegetables,Online,C,Sivakasi,Tamil Nadu,Urban Agglomeration,7712,90.93,154.06,1188110.72,701252.16,486858.56
+432995069,Clothes,Online,C,Darjiling,West Bengal,Municipality,1718,35.84,109.28,187743.04,61573.12,126169.92
+888248336,Personal Care,Offline,H,Chikkamagaluru,Karnataka,City Municipal Council,1276,56.67,81.73,104287.48,72310.92,31976.56
+778763139,Vegetables,Online,C,Gudivada,Andhra Pradesh,Municipality,2173,90.93,154.06,334772.38,197590.89,137181.49
+832713305,Snacks,Offline,H,Baleshwar Town,Odisha,Municipality,7227,97.44,152.58,1102695.66,704198.88,398496.78
+498585164,Household,Offline,M,Mancherial,Telangana,Urban Agglomeration,1285,502.54,668.27,858726.95,645763.9,212963.05
+195177543,Fruits,Offline,M,Srikakulam,Andhra Pradesh,Urban Agglomeration,6227,6.92,9.33,58097.91,43090.84,15007.07
+861601769,Cereal,Online,C,Adilabad,Telangana,Municipality,5965,117.11,205.7,1227000.5,698561.15,528439.35
+807281672,Meat,Online,H,Yavatmal,Maharashtra,Municipal Council,1441,364.69,421.89,607943.49,525518.29,82425.2
+661953580,Clothes,Offline,H,Barnala,Punjab,Municipal Council,5629,35.84,109.28,615137.12,201743.36,413393.76
+225666320,Cosmetics,Online,M,Nagaon,Assam,Municipal board,8534,263.33,437.2,3731064.8,2247258.22,1483806.58
+718781220,Household,Offline,L,Narasaraopet,Andhra Pradesh,Municipality,2191,502.54,668.27,1464179.57,1101065.14,363114.43
+731972110,Office Supplies,Online,L,Raigarh,Chhattisgarh,Urban Agglomeration,5668,524.96,651.21,3691058.28,2975473.28,715585
+276225316,Vegetables,Online,C,Roorkee,Uttarakhand,Urban Agglomeration,64,90.93,154.06,9859.84,5819.52,4040.32
+332839667,Office Supplies,Offline,C,Valsad,Gujarat,Municipality,3509,524.96,651.21,2285095.89,1842084.64,443011.25
+603426492,Vegetables,Online,C,Ambikapur,Chhattisgarh,Municipal Corporation / Corporation.,6163,90.93,154.06,949471.78,560401.59,389070.19
+859909617,Beverages,Offline,H,Giridih,Jharkhand,Town Panchayat,5220,31.79,47.45,247689,165943.8,81745.2
+494525372,Household,Online,L,Chandausi,Uttar Pradesh,Nagar Palika Parishad,9902,502.54,668.27,6617209.54,4976151.08,1641058.46
+769822585,Vegetables,Online,M,Purulia,West Bengal,Municipality,6465,90.93,154.06,995997.9,587862.45,408135.45
+768662583,Vegetables,Offline,C,Patan,Gujarat,Urban Agglomeration,3195,90.93,154.06,492221.7,290521.35,201700.35
+544219195,Cereal,Online,M,Bagaha,Bihar,Nagar Panchayat,5409,117.11,205.7,1112631.3,633447.99,479183.31
+669978749,Beverages,Offline,L,Hardoi ,Uttar Pradesh,Municipality,455,31.79,47.45,21589.75,14464.45,7125.3
+889740073,Cosmetics,Offline,L,Achalpur,Maharashtra,Municipal Council,2715,263.33,437.2,1186998,714940.95,472057.05
+567614495,Beverages,Online,M,Osmanabad,Maharashtra,Municipal Council,8598,31.79,47.45,407975.1,273330.42,134644.68
+938025844,Vegetables,Offline,M,Deesa,Gujarat,,1547,90.93,154.06,238330.82,140668.71,97662.11
+155710446,Vegetables,Online,C,Nandurbar,Maharashtra,Municipal Council,7036,90.93,154.06,1083966.16,639783.48,444182.68
+945717132,Baby Food,Online,L,Azamgarh,Uttar Pradesh,P.,7570,159.42,255.28,1932469.6,1206809.4,725660.2
+253407227,Cosmetics,Offline,C,Ramgarh,Jharkhand,Urban Agglomeration,7685,263.33,437.2,3359882,2023691.05,1336190.95
+494454562,Household,Offline,H,Firozpur,Punjab,Municipal Council,8948,502.54,668.27,5979679.96,4496727.92,1482952.04
+104845464,Cereal,Online,M,Baripada Town,Odisha,Municipality,4957,117.11,205.7,1019654.9,580514.27,439140.63
+290878760,Cosmetics,Online,M,Karwar,Karnataka,City Municipal Council,6344,263.33,437.2,2773596.8,1670565.52,1103031.28
+979165780,Office Supplies,Offline,C,Siwan,Bihar,Municipality,5768,524.96,651.21,3756179.28,3027969.28,728210
+366630351,Office Supplies,Offline,C,Rajampet,Andhra Pradesh,Municipality,2923,524.96,651.21,1903486.83,1534458.08,369028.75
+770508801,Office Supplies,Online,C,Pudukkottai,Tamil Nadu,Municipality,9532,524.96,651.21,6207333.72,5003918.72,1203415
+978349959,Beverages,Offline,M,Anantnag,Jammu and Kashmir,Municipal Council,4349,31.79,47.45,206360.05,138254.71,68105.34
+298015153,Beverages,Offline,L,Tadpatri,Andhra Pradesh,Municipality,8161,31.79,47.45,387239.45,259438.19,127801.26
+807678210,Snacks,Online,M,Satara,Maharashtra,Municipal Council,8786,97.44,152.58,1340567.88,856107.84,484460.04
+605825459,Personal Care,Offline,C,Bhadrak,Odisha,Municipality,6071,56.67,81.73,496182.83,344043.57,152139.26
+561255729,Fruits,Online,C,Kishanganj,Bihar,Nagar Panchayat,6897,6.92,9.33,64349.01,47727.24,16621.77
+263080346,Clothes,Online,H,Suryapet,Telangana,Urban Agglomeration,175,35.84,109.28,19124,6272,12852
+270723140,Cereal,Offline,C,Wardha,Maharashtra,Municipal Council,1848,117.11,205.7,380133.6,216419.28,163714.32
+763920438,Clothes,Offline,H,Ranebennuru,Karnataka,City Municipal Council,9888,35.84,109.28,1080560.64,354385.92,726174.72
+192721068,Household,Online,L,Amreli,Gujarat,Municipality,9302,502.54,668.27,6216247.54,4674627.08,1541620.46
+227486360,Fruits,Offline,L,Neyveli (TS),Tamil Nadu,Census town,7124,6.92,9.33,66466.92,49298.08,17168.84
+808890140,Vegetables,Online,M,Jamalpur,Bihar,Nagar Panchayat,7422,90.93,154.06,1143433.32,674882.46,468550.86
+597918736,Cosmetics,Offline,C,Marmagao,Goa,Urban Agglomeration,6296,263.33,437.2,2752611.2,1657925.68,1094685.52
+125870978,Cosmetics,Online,H,Udgir,Maharashtra,Municipal Council,6874,263.33,437.2,3005312.8,1810130.42,1195182.38
+444358193,Household,Online,H,Tadepalligudem,Andhra Pradesh,Municipality,4319,502.54,668.27,2886258.13,2170470.26,715787.87
+875304210,Beverages,Online,C,Nagapattinam,Tamil Nadu,Municipality,822,31.79,47.45,39003.9,26131.38,12872.52
+360945355,Baby Food,Offline,C,Buxar,Bihar,Nagar Panchayat,607,159.42,255.28,154954.96,96767.94,58187.02
+613830459,Cereal,Offline,C,Aurangabad,Maharashtra,Municipal Corporation / Corporation.,4928,117.11,205.7,1013689.6,577118.08,436571.52
+266820847,Cereal,Offline,H,Jehanabad,Bihar,Nagar Panchayat,7073,117.11,205.7,1454916.1,828319.03,626597.07
+723090350,Baby Food,Offline,M,Phagwara,Punjab,Urban Agglomeration,7358,159.42,255.28,1878350.24,1173012.36,705337.88
+306125295,Meat,Offline,M,Khair,Uttar Pradesh,Nagar Palika Parishad,8132,364.69,421.89,3430809.48,2965659.08,465150.4
+109724509,Personal Care,Online,L,Sawai Madhopur,Rajasthan,Urban Agglomeration,8775,56.67,81.73,717180.75,497279.25,219901.5
+847999322,Clothes,Offline,M,Kapurthala,Punjab,Municipal Council,699,35.84,109.28,76386.72,25052.16,51334.56
+605373561,Clothes,Online,H,Chilakaluripet,Andhra Pradesh,Municipality,2344,35.84,109.28,256152.32,84008.96,172143.36
+686583554,Beverages,Online,H,Aurangabad,Bihar,Nagar Panchayat.,4186,31.79,47.45,198625.7,133072.94,65552.76
+666678130,Beverages,Offline,M,Malappuram,Kerala,Municipality,3729,31.79,47.45,176941.05,118544.91,58396.14
+641018617,Baby Food,Online,M,Rewari,Haryana,Municipal Council,508,159.42,255.28,129682.24,80985.36,48696.88
+775278842,Meat,Online,C,Nagaur,Rajasthan,Municipality,1093,364.69,421.89,461125.77,398606.17,62519.6
+855445134,Meat,Offline,M,Sultanpur,Uttar Pradesh,Municipal board,4080,364.69,421.89,1721311.2,1487935.2,233376
+737816321,Vegetables,Online,H,Nagda,Madhya Pradesh,Municipality,5100,90.93,154.06,785706,463743,321963
+799003732,Beverages,Online,L,Port Blair,Andaman and Nicobar Islands,Municipal Council,1815,31.79,47.45,86121.75,57698.85,28422.9
+585931193,Vegetables,Online,L,Lakhisarai,Bihar,Nagar Panchayat,8916,90.93,154.06,1373598.96,810731.88,562867.08
+165835034,Vegetables,Online,M,Panaji,Goa,Urban Agglomeration,3127,90.93,154.06,481745.62,284338.11,197407.51
+576264083,Baby Food,Offline,H,Tinsukia,Assam,Municipal board.,8203,159.42,255.28,2094061.84,1307722.26,786339.58
+675079667,Clothes,Offline,L,Itarsi,Madhya Pradesh,Municipality,9930,35.84,109.28,1085150.4,355891.2,729259.2
+290455615,Personal Care,Online,L,Kohima,Nagaland,Municipal Committee,1126,56.67,81.73,92027.98,63810.42,28217.56
+670878255,Snacks,Offline,L,Balangir,Odisha,Municipality,6639,97.44,152.58,1012978.62,646904.16,366074.46
+435146415,Cereal,Online,M,Nawada,Bihar,Nagar Parishad,8349,117.11,205.7,1717389.3,977751.39,739637.91
+522371423,Snacks,Online,C,Jharsuguda,Odisha,Municipality,167,97.44,152.58,25480.86,16272.48,9208.38
+141977107,Office Supplies,Online,L,Jagtial,Telangana,Municipality,3036,524.96,651.21,1977073.56,1593778.56,383295
+823699796,Baby Food,Offline,L,Viluppuram,Tamil Nadu,Municipality,9929,159.42,255.28,2534675.12,1582881.18,951793.94
+567588317,Beverages,Offline,L,Amalner,Maharashtra,Municipal Council,851,31.79,47.45,40379.95,27053.29,13326.66
+594003999,Fruits,Offline,H,Zirakpur,Punjab,Municipal Council,7838,6.92,9.33,73128.54,54238.96,18889.58
+393620669,Baby Food,Offline,H,Tanda,Uttar Pradesh,Municipal board,9958,159.42,255.28,2542078.24,1587504.36,954573.88
+877424657,Cosmetics,Offline,H,Tiruchengode,Tamil Nadu,Municipality,8309,263.33,437.2,3632694.8,2188008.97,1444685.83
+326714789,Household,Offline,M,Nagina,Uttar Pradesh,Nagar Palika Parishad,1021,502.54,668.27,682303.67,513093.34,169210.33
+243102395,Fruits,Offline,M,Yemmiganur,Andhra Pradesh,Municipality,8256,6.92,9.33,77028.48,57131.52,19896.96
+398511302,Household,Offline,L,Vaniyambadi,Tamil Nadu,Municipality,7205,502.54,668.27,4814885.35,3620800.7,1194084.65
+185177838,Personal Care,Offline,M,Sarni,Madhya Pradesh,Municipality,7092,56.67,81.73,579629.16,401903.64,177725.52
+865650832,Personal Care,Offline,H,Theni Allinagaram,Tamil Nadu,Municipality,4173,56.67,81.73,341059.29,236483.91,104575.38
+622791612,Cereal,Offline,C,Margao,Goa,Urban Agglomeration,6733,117.11,205.7,1384978.1,788501.63,596476.47
+409774005,Personal Care,Online,L,Akot,Maharashtra,Municipal Council,89,56.67,81.73,7273.97,5043.63,2230.34
+800084340,Office Supplies,Online,H,Sehore,Madhya Pradesh,Urban Agglomeration,1591,524.96,651.21,1036075.11,835211.36,200863.75
+637521445,Snacks,Offline,M,Mhow Cantonment,Madhya Pradesh,Urban Agglomeration,5618,97.44,152.58,857194.44,547417.92,309776.52
+186196649,Beverages,Online,L,Kot Kapura,Punjab,Municipal Council,8581,31.79,47.45,407168.45,272789.99,134378.46
+680533778,Baby Food,Offline,L,Makrana,Rajasthan,Urban Agglomeration,3923,159.42,255.28,1001463.44,625404.66,376058.78
+275269162,Beverages,Online,L,Pandharpur,Maharashtra,Municipal Council,7117,31.79,47.45,337701.65,226249.43,111452.22
+795451629,Household,Online,C,Miryalaguda,Telangana,Urban Agglomeration,668,502.54,668.27,446404.36,335696.72,110707.64
+986442506,Cereal,Offline,M,Shamli,Uttar Pradesh,Municipal board,9113,117.11,205.7,1874544.1,1067223.43,807320.67
+563915622,Cereal,Offline,M,Seoni,Madhya Pradesh,Municipality,4019,117.11,205.7,826708.3,470665.09,356043.21
+663857305,Cosmetics,Offline,C,Ranibennur,Karnataka,City Municipal Council,8984,263.33,437.2,3927804.8,2365756.72,1562048.08
+692566382,Fruits,Online,L,Kadiri,Andhra Pradesh,Municipality,4638,6.92,9.33,43272.54,32094.96,11177.58
+576654183,Household,Offline,L,Shrirampur,Maharashtra,Urban Agglomeration,3642,502.54,668.27,2433839.34,1830250.68,603588.66
+313044536,Baby Food,Offline,H,Rudrapur,Uttarakhand,Municipal board,5689,159.42,255.28,1452287.92,906940.38,545347.54
+418973767,Personal Care,Offline,C,Parli,Maharashtra,Municipal Council,2503,56.67,81.73,204570.19,141845.01,62725.18
+581990706,Beverages,Online,C,Najibabad,Uttar Pradesh,Municipal board,2838,31.79,47.45,134663.1,90220.02,44443.08
+109956681,Baby Food,Online,H,Nirmal,Telangana,Municipality,7480,159.42,255.28,1909494.4,1192461.6,717032.8
+181045520,Cereal,Online,L,Udhagamandalam,Tamil Nadu,Municipality,4247,117.11,205.7,873607.9,497366.17,376241.73
+693743550,Vegetables,Online,C,Shikohabad,Uttar Pradesh,Municipal board,2988,90.93,154.06,460331.28,271698.84,188632.44
+716849601,Clothes,Offline,L,Jhumri Tilaiya,Jharkhand,Nagar Panchayat,582,35.84,109.28,63600.96,20858.88,42742.08
+739474999,Cosmetics,Online,L,Aruppukkottai,Tamil Nadu,Municipality,5940,263.33,437.2,2596968,1564180.2,1032787.8
+421043574,Personal Care,Online,M,Ponnani,Kerala,Municipality,5005,56.67,81.73,409058.65,283633.35,125425.3
+841291654,Personal Care,Online,M,Jamui,Bihar,Nagar Panchayat,5751,56.67,81.73,470029.23,325909.17,144120.06
+450268065,Cereal,Offline,L,Sitamarhi,Bihar,Urban Agglomeration,3181,117.11,205.7,654331.7,372526.91,281804.79
+918334138,Meat,Online,L,Chirala,Andhra Pradesh,Municipality,4334,364.69,421.89,1828471.26,1580566.46,247904.8
+386163699,Meat,Offline,M,Anjar,Gujarat,Municipality,3275,364.69,421.89,1381689.75,1194359.75,187330
+214743077,Personal Care,Offline,C,Karaikal,Puducherry,Municipality,6103,56.67,81.73,498798.19,345857.01,152941.18
+935371100,Baby Food,Online,M,Hansi,Haryana,Municipal Council,5949,159.42,255.28,1518660.72,948389.58,570271.14
+899659097,Cosmetics,Offline,H,Anakapalle,Andhra Pradesh,Municipality,7974,263.33,437.2,3486232.8,2099793.42,1386439.38
+329530894,Vegetables,Online,H,Mahasamund,Chhattisgarh,Municipality,4369,90.93,154.06,673088.14,397273.17,275814.97
+867222821,Meat,Online,H,Faridkot,Punjab,Municipal Council,9359,364.69,421.89,3948468.51,3413133.71,535334.8
+625283706,Beverages,Online,M,Saunda,Jharkhand,Census town,4199,31.79,47.45,199242.55,133486.21,65756.34
+936574876,Office Supplies,Offline,C,Dhoraji,Gujarat,Municipality,2173,524.96,651.21,1415079.33,1140738.08,274341.25
+504270160,Cereal,Offline,M,Paramakudi,Tamil Nadu,Municipality,3601,117.11,205.7,740725.7,421713.11,319012.59
+351855885,Personal Care,Offline,M,Balaghat,Madhya Pradesh,Municipality,830,56.67,81.73,67835.9,47036.1,20799.8
+673130881,Snacks,Online,H,Sujangarh,Rajasthan,Municipality,3241,97.44,152.58,494511.78,315803.04,178708.74
+382206475,Office Supplies,Offline,H,Khambhat,Gujarat,Municipality,2244,524.96,651.21,1461315.24,1178010.24,283305
+263506495,Cereal,Online,H,Muktsar,Punjab,Municipal Council,6283,117.11,205.7,1292413.1,735802.13,556610.97
+721767270,Cereal,Offline,L,Rajpura,Punjab,Municipal Council,5829,117.11,205.7,1199025.3,682634.19,516391.11
+432037627,Cosmetics,Online,M,Kavali,Andhra Pradesh,Municipality,8390,263.33,437.2,3668108,2209338.7,1458769.3
+389678895,Meat,Offline,C,Dhamtari,Chhattisgarh,Municipality,3499,364.69,421.89,1476193.11,1276050.31,200142.8
+760364902,Meat,Online,L,Ashok Nagar,Madhya Pradesh,Municipality,7726,364.69,421.89,3259522.14,2817594.94,441927.2
+430081975,Fruits,Offline,C,Sardarshahar,Rajasthan,Municipality,9669,6.92,9.33,90211.77,66909.48,23302.29
+155128943,Baby Food,Online,H,Mahuva,Gujarat,Urban Agglomeration,4957,159.42,255.28,1265422.96,790244.94,475178.02
+312117135,Clothes,Offline,H,Bargarh,Odisha,Municipality,1251,35.84,109.28,136709.28,44835.84,91873.44
+447970378,Meat,Offline,L,Kamareddy,Telangana,Municipality,3245,364.69,421.89,1369033.05,1183419.05,185614
+629925000,Cosmetics,Offline,C,Sahibganj,Jharkhand,Municipality,7661,263.33,437.2,3349389.2,2017371.13,1332018.07
+995529830,Personal Care,Offline,L,Kothagudem,Telangana,Municipality,8254,56.67,81.73,674599.42,467754.18,206845.24
+402646195,Office Supplies,Online,L,Ramanagaram,Karnataka,City Municipal Council,812,524.96,651.21,528782.52,426267.52,102515
+479447925,Meat,Offline,M,Gokak,Karnataka,City Municipal Council,8150,364.69,421.89,3438403.5,2972223.5,466180
+674421346,Cosmetics,Offline,H,Tikamgarh,Madhya Pradesh,Municipality,5118,263.33,437.2,2237589.6,1347722.94,889866.66
+506365287,Cosmetics,Online,L,Araria,Bihar,Nagar Panchayat.,3596,263.33,437.2,1572171.2,946934.68,625236.52
+914391076,Clothes,Online,C,Rishikesh,Uttarakhand,Urban Agglomeration,7494,35.84,109.28,818944.32,268584.96,550359.36
+207922542,Meat,Online,L,Shahdol,Madhya Pradesh,Municipality,7755,364.69,421.89,3271756.95,2828170.95,443586
+816696012,Office Supplies,Offline,M,Medininagar (Daltonganj),Jharkhand,Nagar Parishad,7353,524.96,651.21,4788347.13,3860030.88,928316.25
+740760314,Beverages,Offline,L,Arakkonam,Tamil Nadu,Municipality,6293,31.79,47.45,298602.85,200054.47,98548.38
+300476777,Baby Food,Online,C,Washim,Maharashtra,Municipal Council,6610,159.42,255.28,1687400.8,1053766.2,633634.6
+786519229,Snacks,Online,L,Sangrur,Punjab,Municipal Council,7373,97.44,152.58,1124972.34,718425.12,406547.22
+409873998,Cosmetics,Offline,C,Bodhan,Telangana,Municipality,9679,263.33,437.2,4231658.8,2548771.07,1682887.73
+151839911,Cosmetics,Offline,H,Fazilka,Punjab,Municipal Council,1659,263.33,437.2,725314.8,436864.47,288450.33
+614028298,Vegetables,Online,H,Palacole,Andhra Pradesh,Urban Agglomeration,3473,90.93,154.06,535050.38,315799.89,219250.49
+668362987,Household,Offline,L,Keshod,Gujarat,Municipality,2315,502.54,668.27,1547045.05,1163380.1,383664.95
+607080304,Household,Online,M,Sullurpeta,Andhra Pradesh,Municipality,7408,502.54,668.27,4950544.16,3722816.32,1227727.84
+792729079,Baby Food,Online,M,Wadhwan,Gujarat,Municipality,5006,159.42,255.28,1277931.68,798056.52,479875.16
+308170640,Baby Food,Offline,M,Gurdaspur,Punjab,Municipal Council,3395,159.42,255.28,866675.6,541230.9,325444.7
+106578814,Vegetables,Online,H,Vatakara,Kerala,Municipality,7894,90.93,154.06,1216149.64,717801.42,498348.22
+761439931,Cereal,Online,H,Tura,Meghalaya,Municipality,5851,117.11,205.7,1203550.7,685210.61,518340.09
+216552817,Household,Online,L,Narnaul,Haryana,Municipal Council,1646,502.54,668.27,1099972.42,827180.84,272791.58
+536028802,Fruits,Online,H,Kharar,Punjab,Municipal Council,1689,6.92,9.33,15758.37,11687.88,4070.49
+254291713,Beverages,Online,L,Yadgir,Karnataka,City Municipal Council,9424,31.79,47.45,447168.8,299588.96,147579.84
+226077878,Personal Care,Online,C,Ambejogai,Maharashtra,Municipal Council,323,56.67,81.73,26398.79,18304.41,8094.38
+476436126,Office Supplies,Offline,M,Ankleshwar,Gujarat,Municipality,6892,524.96,651.21,4488139.32,3618024.32,870115
+650727784,Cosmetics,Offline,L,Savarkundla,Gujarat,Municipality,3667,263.33,437.2,1603212.4,965631.11,637581.29
+464626681,Household,Offline,C,Paradip,Odisha,Notified area committee / Notified Area Council,2215,502.54,668.27,1480218.05,1113126.1,367091.95
+154119145,Meat,Offline,C,Virudhachalam,Tamil Nadu,Municipality,6135,364.69,421.89,2588295.15,2237373.15,350922
+925504004,Meat,Online,M,Kanhangad,Kerala,Municipality,6057,364.69,421.89,2555387.73,2208927.33,346460.4
+905392587,Cereal,Offline,L,Kadi,Gujarat,Municipality,4641,117.11,205.7,954653.7,543507.51,411146.19
+990708720,Snacks,Online,C,Srivilliputhur,Tamil Nadu,Municipality,1581,97.44,152.58,241228.98,154052.64,87176.34
+798688733,Baby Food,Online,M,Gobindgarh,Punjab,Municipal Council,8600,159.42,255.28,2195408,1371012,824396
+916881453,Cereal,Offline,C,Tindivanam,Tamil Nadu,Municipality,4452,117.11,205.7,915776.4,521373.72,394402.68
+653148210,Cosmetics,Offline,L,Mansa,Punjab,Municipal Council,9924,263.33,437.2,4338772.8,2613286.92,1725485.88
+285662829,Personal Care,Offline,C,Taliparamba,Kerala,Municipality,2834,56.67,81.73,231622.82,160602.78,71020.04
+612911641,Vegetables,Online,C,Manmad,Maharashtra,Municipal Council,3030,90.93,154.06,466801.8,275517.9,191283.9
+703693473,Office Supplies,Offline,L,Tanuku,Andhra Pradesh,Municipality,7391,524.96,651.21,4813093.11,3879979.36,933113.75
+147119653,Clothes,Online,M,Rayachoti,Andhra Pradesh,Census town,4829,35.84,109.28,527713.12,173071.36,354641.76
+402614009,Fruits,Online,C,Virudhunagar,Tamil Nadu,Municipality,1287,6.92,9.33,12007.71,8906.04,3101.67
+749912869,Personal Care,Online,C,Koyilandy,Kerala,Municipality,4738,56.67,81.73,387236.74,268502.46,118734.28
+539065062,Household,Online,H,Jorhat,Assam,Municipal board,186,502.54,668.27,124298.22,93472.44,30825.78
+540431916,Snacks,Offline,H,Karur,Tamil Nadu,Municipality,4668,97.44,152.58,712243.44,454849.92,257393.52
+694687259,Beverages,Online,C,Valparai,Tamil Nadu,Municipality,2252,31.79,47.45,106857.4,71591.08,35266.32
+562817418,Cosmetics,Offline,H,Srikalahasti,Andhra Pradesh,Municipality,9036,263.33,437.2,3950539.2,2379449.88,1571089.32
+676121222,Cereal,Online,L,Neyyattinkara,Kerala,Municipality,8149,117.11,205.7,1676249.3,954329.39,721919.91
+286210000,Snacks,Offline,L,Bapatla,Andhra Pradesh,Municipality,4754,97.44,152.58,725365.32,463229.76,262135.56
+515007579,Beverages,Online,L,Fatehabad,Haryana,Municipal Council,1042,31.79,47.45,49442.9,33125.18,16317.72
+304750287,Cosmetics,Offline,C,Malout,Punjab,Municipal Council,1237,263.33,437.2,540816.4,325739.21,215077.19
+467986953,Beverages,Online,H,Sankarankovil,Tamil Nadu,Municipality,6594,31.79,47.45,312885.3,209623.26,103262.04
+537578904,Beverages,Offline,C,Tenkasi,Tamil Nadu,Municipality,399,31.79,47.45,18932.55,12684.21,6248.34
+116699969,Vegetables,Offline,L,Ratnagiri,Maharashtra,Municipal Council,2969,90.93,154.06,457404.14,269971.17,187432.97
+228836476,Snacks,Offline,C,Rabkavi Banhatti,Karnataka,City Municipal Council,6653,97.44,152.58,1015114.74,648268.32,366846.42
+167787253,Vegetables,Offline,C,Sikandrabad,Uttar Pradesh,Municipal board,832,90.93,154.06,128177.92,75653.76,52524.16
+647663629,Vegetables,Online,M,Chaibasa,Jharkhand,Nagar Palika Parishad,6915,90.93,154.06,1065324.9,628780.95,436543.95
+652889430,Meat,Offline,L,Chirmiri,Chhattisgarh,Municipal Corporation / Corporation.,3346,364.69,421.89,1411643.94,1220252.74,191391.2
+588200986,Office Supplies,Offline,M,Palwancha,Telangana,Municipality,598,524.96,651.21,389423.58,313926.08,75497.5
+928647124,Personal Care,Online,L,Bhawanipatna,Odisha,Municipality,6176,56.67,81.73,504764.48,349993.92,154770.56
+869589173,Cosmetics,Offline,L,Kayamkulam,Kerala,Municipality,9615,263.33,437.2,4203678,2531917.95,1671760.05
+576700961,Household,Online,C,Pithampur,Madhya Pradesh,Nagar Panchayat,7485,502.54,668.27,5002000.95,3761511.9,1240489.05
+735968816,Cereal,Offline,M,Nabha,Punjab,Municipal Council,8382,117.11,205.7,1724177.4,981616.02,742561.38
+303691565,Snacks,Offline,M,"Shahabad, Hardoi",Uttar Pradesh,Municipal board,7938,97.44,152.58,1211180.04,773478.72,437701.32
+556480538,Clothes,Offline,C,Dhenkanal,Odisha,Municipality,3812,35.84,109.28,416575.36,136622.08,279953.28
+141259562,Beverages,Offline,H,Uran Islampur,Maharashtra,Municipal Council,698,31.79,47.45,33120.1,22189.42,10930.68
+925264966,Cosmetics,Offline,C,Gopalganj,Bihar,Nagar Panchayat,5320,263.33,437.2,2325904,1400915.6,924988.4
+346045577,Office Supplies,Online,H,Bongaigaon City,Assam,Municipal board,1431,524.96,651.21,931881.51,751217.76,180663.75
+861462724,Fruits,Offline,H,Palani,Tamil Nadu,Municipality,4818,6.92,9.33,44951.94,33340.56,11611.38
+499690234,Personal Care,Online,M,Pusad,Maharashtra,Municipal Council,8299,56.67,81.73,678277.27,470304.33,207972.94
+509214437,Clothes,Online,H,Sopore,Jammu and Kashmir,Urban Agglomeration,6722,35.84,109.28,734580.16,240916.48,493663.68
+408834159,Office Supplies,Online,M,Pilkhuwa,Uttar Pradesh,Municipal board,1968,524.96,651.21,1281581.28,1033121.28,248460
+237660729,Beverages,Offline,M,Tarn Taran,Punjab,Municipal Council,7946,31.79,47.45,377037.7,252603.34,124434.36
+105117976,Clothes,Online,C,Renukoot,Uttar Pradesh,Urban Agglomeration,5600,35.84,109.28,611968,200704,411264
+640942227,Cereal,Offline,L,Mandamarri,Telangana,Municipality,7903,117.11,205.7,1625647.1,925520.33,700126.77
+745182311,Cosmetics,Online,L,Shahabad,Karnataka,Urban Agglomeration,4860,263.33,437.2,2124792,1279783.8,845008.2
+738199555,Baby Food,Offline,C,Barbil,Odisha,Municipality,8508,159.42,255.28,2171922.24,1356345.36,815576.88
+110667788,Snacks,Online,L,Koratla,Telangana,Municipality,7913,97.44,152.58,1207365.54,771042.72,436322.82
+673573338,Office Supplies,Online,C,Madhubani,Bihar,Municipality,4174,524.96,651.21,2718150.54,2191183.04,526967.5
+708215034,Snacks,Offline,H,Arambagh,West Bengal,Municipality,5421,97.44,152.58,827136.18,528222.24,298913.94
+816204202,Household,Online,M,Gohana,Haryana,Municipal Committee,1816,502.54,668.27,1213578.32,912612.64,300965.68
+769464671,Beverages,Offline,L,Ladnu,Rajasthan,Municipality,550,31.79,47.45,26097.5,17484.5,8613
+860232770,Beverages,Offline,L,Pattukkottai,Tamil Nadu,Municipality,848,31.79,47.45,40237.6,26957.92,13279.68
+551057326,Personal Care,Offline,C,Sirsi,Karnataka,Urban Agglomeration,8963,56.67,81.73,732545.99,507933.21,224612.78
+724799668,Cosmetics,Online,C,Sircilla,Telangana,Municipality,3183,263.33,437.2,1391607.6,838179.39,553428.21
+534633624,Cosmetics,Offline,H,Tamluk,West Bengal,Municipality,8825,263.33,437.2,3858290,2323887.25,1534402.75
+554045522,Beverages,Offline,H,Jagraon,Punjab,Municipal Council,3237,31.79,47.45,153595.65,102904.23,50691.42
+526834189,Clothes,Online,C,AlipurdUrban Agglomerationr,West Bengal,Municipality,799,35.84,109.28,87314.72,28636.16,58678.56
+717110955,Household,Online,C,Alirajpur,Madhya Pradesh,Municipality,7922,502.54,668.27,5294034.94,3981121.88,1312913.06
+559299647,Baby Food,Offline,L,Tandur,Telangana,Municipality,8049,159.42,255.28,2054748.72,1283171.58,771577.14
+908136594,Meat,Online,M,Naidupet,Andhra Pradesh,Municipality,6654,364.69,421.89,2807256.06,2426647.26,380608.8
+888670623,Office Supplies,Offline,M,Tirupathur,Tamil Nadu,Municipality,6240,524.96,651.21,4063550.4,3275750.4,787800
+146263062,Office Supplies,Offline,C,Tohana,Haryana,Municipal Committee,1345,524.96,651.21,875877.45,706071.2,169806.25
+196587741,Office Supplies,Offline,L,Ratangarh,Rajasthan,Municipality,3536,524.96,651.21,2302678.56,1856258.56,446420
+375630986,Baby Food,Online,M,Dhubri,Assam,Municipal board,6411,159.42,255.28,1636600.08,1022041.62,614558.46
+989691627,Beverages,Offline,H,Masaurhi,Bihar,Nagar Parishad,600,31.79,47.45,28470,19074,9396
+165380990,Household,Offline,H,Visnagar,Gujarat,Municipality,8765,502.54,668.27,5857386.55,4404763.1,1452623.45
+599622905,Snacks,Online,C,Vrindavan,Uttar Pradesh,Municipal board,597,97.44,152.58,91090.26,58171.68,32918.58
+109653699,Personal Care,Offline,C,Nokha,Rajasthan,Municipality,7821,56.67,81.73,639210.33,443216.07,195994.26
+183022201,Meat,Offline,M,Nagari,Andhra Pradesh,Municipality,9191,364.69,421.89,3877590.99,3351865.79,525725.2
+127589738,Personal Care,Online,L,Narwana,Haryana,Municipal Council,5494,56.67,81.73,449024.62,311344.98,137679.64
+221530139,Fruits,Offline,L,Ramanathapuram,Tamil Nadu,Municipality,4546,6.92,9.33,42414.18,31458.32,10955.86
+363329732,Office Supplies,Offline,M,Ujhani,Uttar Pradesh,Nagar Palika Parishad.,6197,524.96,651.21,4035548.37,3253177.12,782371.25
+521787345,Fruits,Online,C,Samastipur,Bihar,Urban Agglomeration,7325,6.92,9.33,68342.25,50689,17653.25
+286014306,Meat,Online,L,Laharpur,Uttar Pradesh,Nagar Palika Parishad,6844,364.69,421.89,2887415.16,2495938.36,391476.8
+215434443,Cereal,Offline,C,Sangamner,Maharashtra,Municipal Council,694,117.11,205.7,142755.8,81274.34,61481.46
+489784085,Snacks,Online,L,Nimbahera,Rajasthan,Municipality,6850,97.44,152.58,1045173,667464,377709
+459112060,Office Supplies,Offline,C,Siddipet,Telangana,Municipality,316,524.96,651.21,205782.36,165887.36,39895
+893779695,Office Supplies,Online,C,Suri,West Bengal,Municipality,8128,524.96,651.21,5293034.88,4266874.88,1026160
+834460818,Meat,Offline,M,Diphu,Assam,Town Committee / Town Area Committee,4355,364.69,421.89,1837330.95,1588224.95,249106
+742141759,Beverages,Online,C,Jhargram,West Bengal,Municipality,5093,31.79,47.45,241662.85,161906.47,79756.38
+248121345,Vegetables,Offline,M,Shirpur-Warwade,Maharashtra,Municipal Council,3475,90.93,154.06,535358.5,315981.75,219376.75
+404010903,Clothes,Offline,M,Tilhar,Uttar Pradesh,Nagar Palika Parishad.,4659,35.84,109.28,509135.52,166978.56,342156.96
+531734263,Household,Online,L,Sindhnur,Karnataka,Town Municipal Council,840,502.54,668.27,561346.8,422133.6,139213.2
+473527753,Baby Food,Online,C,Udumalaipettai,Tamil Nadu,Municipality,6240,159.42,255.28,1592947.2,994780.8,598166.4
+141940200,Cereal,Offline,M,Malkapur,Maharashtra,Municipal Council,2114,117.11,205.7,434849.8,247570.54,187279.26
+869832932,Household,Offline,M,Wanaparthy,Telangana,Municipality,1749,502.54,668.27,1168804.23,878942.46,289861.77
+460379779,Snacks,Online,H,Gudur,Andhra Pradesh,Municipality,5462,97.44,152.58,833391.96,532217.28,301174.68
+837067067,Vegetables,Online,C,Kendujhar,Odisha,Municipality,5602,90.93,154.06,863044.12,509389.86,353654.26
+393693625,Beverages,Online,C,Mandla,Madhya Pradesh,Urban Agglomeration,1547,31.79,47.45,73405.15,49179.13,24226.02
+744370782,Vegetables,Offline,L,Mandi,Himachal Pradesh,Municipal Council,4711,90.93,154.06,725776.66,428371.23,297405.43
+873522365,Cosmetics,Offline,M,Nedumangad,Kerala,Municipality,3534,263.33,437.2,1545064.8,930608.22,614456.58
+285884702,Beverages,Online,L,North Lakhimpur,Assam,Municipal board,8491,31.79,47.45,402897.95,269928.89,132969.06
+356506621,Cosmetics,Online,H,Vinukonda,Andhra Pradesh,Municipality,7086,263.33,437.2,3097999.2,1865956.38,1232042.82
+280749452,Baby Food,Offline,L,Tiptur,Karnataka,City Municipal Council,8856,159.42,255.28,2260759.68,1411823.52,848936.16
+224287021,Baby Food,Online,M,Gobichettipalayam,Tamil Nadu,Municipality,368,159.42,255.28,93943.04,58666.56,35276.48
+873105657,Fruits,Offline,M,Sunabeda,Odisha,Notified area committee / Notified Area Council,221,6.92,9.33,2061.93,1529.32,532.61
+283504188,Snacks,Offline,C,Wani,Maharashtra,Municipal Council,4044,97.44,152.58,617033.52,394047.36,222986.16
+632093942,Beverages,Offline,C,Upleta,Gujarat,Municipality,9499,31.79,47.45,450727.55,301973.21,148754.34
+565798747,Meat,Offline,L,Narasapuram,Andhra Pradesh,Municipality,1277,364.69,421.89,538753.53,465709.13,73044.4
+151854932,Vegetables,Online,M,Nuzvid,Andhra Pradesh,Municipality,6104,90.93,154.06,940382.24,555036.72,385345.52
+427811324,Vegetables,Online,H,Tezpur,Assam,Municipal board.,7733,90.93,154.06,1191345.98,703161.69,488184.29
+251529252,Fruits,Online,L,Una,Gujarat,Municipality,1950,6.92,9.33,18193.5,13494,4699.5
+351182544,Snacks,Offline,C,Markapur,Andhra Pradesh,Municipality,1574,97.44,152.58,240160.92,153370.56,86790.36
+175257527,Meat,Offline,H,Sheopur,Madhya Pradesh,Urban Agglomeration,1452,364.69,421.89,612584.28,529529.88,83054.4
+142553031,Snacks,Online,H,Thiruvarur,Tamil Nadu,Municipality,3465,97.44,152.58,528689.7,337629.6,191060.1
+292180383,Fruits,Offline,H,Sidhpur,Gujarat,Urban Agglomeration,1523,6.92,9.33,14209.59,10539.16,3670.43
+733563411,Fruits,Offline,L,Sahaswan,Uttar Pradesh,Municipal board,6569,6.92,9.33,61288.77,45457.48,15831.29
+296438443,Beverages,Online,H,Suratgarh,Rajasthan,Municipality,1578,31.79,47.45,74876.1,50164.62,24711.48
+580854308,Meat,Offline,C,Shajapur,Madhya Pradesh,Urban Agglomeration,6552,364.69,421.89,2764223.28,2389448.88,374774.4
+107172334,Cosmetics,Offline,H,Rayagada,Odisha,Municipality,3530,263.33,437.2,1543316,929554.9,613761.1
+166066348,Baby Food,Offline,H,Lonavla,Maharashtra,Municipal Council,1578,159.42,255.28,402831.84,251564.76,151267.08
+768522679,Snacks,Offline,H,Ponnur,Andhra Pradesh,Municipality,1794,97.44,152.58,273728.52,174807.36,98921.16
+195840156,Household,Online,M,Kagaznagar,Telangana,Municipality,2309,502.54,668.27,1543035.43,1160364.86,382670.57
+849630105,Cosmetics,Offline,L,Gadwal,Telangana,Municipality,3284,263.33,437.2,1435764.8,864775.72,570989.08
+701816356,Fruits,Offline,M,Bhatapara,Chhattisgarh,Municipality,1910,6.92,9.33,17820.3,13217.2,4603.1
+944635236,Office Supplies,Online,M,Kandukur,Andhra Pradesh,Municipality,7413,524.96,651.21,4827419.73,3891528.48,935891.25
+140635573,Vegetables,Online,L,Sangareddy,Telangana,Municipality,6046,90.93,154.06,931446.76,549762.78,381683.98
+972678697,Meat,Online,C,Unjha,Gujarat,Municipality,6096,364.69,421.89,2571841.44,2223150.24,348691.2
+793938434,Fruits,Online,M,Lunglei,Mizoram,Notified Town,2880,6.92,9.33,26870.4,19929.6,6940.8
+177901113,Baby Food,Online,L,Karimganj,Assam,Municipal board,3747,159.42,255.28,956534.16,597346.74,359187.42
+668365561,Beverages,Online,L,Kannur,Kerala,Municipality,3077,31.79,47.45,146003.65,97817.83,48185.82
+729443109,Vegetables,Online,C,Bobbili,Andhra Pradesh,Municipality,7281,90.93,154.06,1121710.86,662061.33,459649.53
+695557582,Fruits,Offline,H,Mokameh,Bihar,Municipality,9800,6.92,9.33,91434,67816,23618
+521445310,Household,Offline,H,Talegaon Dabhade,Maharashtra,Municipal Council,6110,502.54,668.27,4083129.7,3070519.4,1012610.3
+232155120,Personal Care,Online,L,Anjangaon,Maharashtra,Municipal Council,8714,56.67,81.73,712195.22,493822.38,218372.84
+373048341,Beverages,Online,L,Mangrol,Gujarat,Urban Agglomeration,2149,31.79,47.45,101970.05,68316.71,33653.34
+659798800,Office Supplies,Offline,L,Sunam,Punjab,Urban Agglomeration,7982,524.96,651.21,5197958.22,4190230.72,1007727.5
+428392827,Household,Online,C,Gangarampur,West Bengal,Municipality,9812,502.54,668.27,6557065.24,4930922.48,1626142.76
+885129249,Personal Care,Offline,M,Thiruvallur,Tamil Nadu,Municipality,8269,56.67,81.73,675825.37,468604.23,207221.14
+156619393,Meat,Online,C,Tirur,Kerala,Municipality,6014,364.69,421.89,2537246.46,2193245.66,344000.8
+939787089,Baby Food,Offline,M,Rath,Uttar Pradesh,Municipal board,2739,159.42,255.28,699211.92,436651.38,262560.54
+151868665,Vegetables,Online,C,Jatani,Odisha,Municipality,168,90.93,154.06,25882.08,15276.24,10605.84
+180412948,Cereal,Offline,C,Viramgam,Gujarat,Municipality,7055,117.11,205.7,1451213.5,826211.05,625002.45
+333281266,Fruits,Offline,H,Rajsamand,Rajasthan,Municipality,4188,6.92,9.33,39074.04,28980.96,10093.08
+888647449,Cosmetics,Online,L,Yanam,Puducherry,Municipality,9383,263.33,437.2,4102247.6,2470825.39,1631422.21
+844997823,Clothes,Offline,M,Kottayam,Kerala,Municipality,2488,35.84,109.28,271888.64,89169.92,182718.72
+171131217,Fruits,Online,M,Panruti,Tamil Nadu,Municipality,385,6.92,9.33,3592.05,2664.2,927.85
+256158959,Office Supplies,Online,C,Dhuri,Punjab,Municipal Council,1983,524.96,651.21,1291349.43,1040995.68,250353.75
+759504878,Cosmetics,Online,H,Namakkal,Tamil Nadu,Municipality,3226,263.33,437.2,1410407.2,849502.58,560904.62
+960905301,Fruits,Online,C,Kasaragod,Kerala,Municipality,2087,6.92,9.33,19471.71,14442.04,5029.67
+210409057,Office Supplies,Offline,C,Modasa,Gujarat,Municipality,3570,524.96,651.21,2324819.7,1874107.2,450712.5
+178377473,Cosmetics,Offline,C,Rayadurg,Andhra Pradesh,Municipality,4713,263.33,437.2,2060523.6,1241074.29,819449.31
+805484378,Fruits,Online,M,Supaul,Bihar,Municipality,9582,6.92,9.33,89400.06,66307.44,23092.62
+752716100,Beverages,Online,C,Kunnamkulam,Kerala,Municipality,4276,31.79,47.45,202896.2,135934.04,66962.16
+551371467,Clothes,Online,M,Umred,Maharashtra,Municipal Council,1925,35.84,109.28,210364,68992,141372
+353061807,Snacks,Offline,M,Bellampalle,Telangana,Municipality,7689,97.44,152.58,1173187.62,749216.16,423971.46
+379710948,Personal Care,Online,C,Sibsagar,Assam,Municipal board,3762,56.67,81.73,307468.26,213192.54,94275.72
+473555219,Cereal,Online,H,Mandi Dabwali,Haryana,Municipal Committee,4368,117.11,205.7,898497.6,511536.48,386961.12
+547143447,Office Supplies,Online,C,Ottappalam,Kerala,Municipality,760,524.96,651.21,494919.6,398969.6,95950
+133336961,Personal Care,Online,C,Dumraon,Bihar,Notified area committee / Notified Area Council,6225,56.67,81.73,508769.25,352770.75,155998.5
+635309588,Meat,Online,H,Samalkot,Andhra Pradesh,Municipality,1080,364.69,421.89,455641.2,393865.2,61776
+376547658,Beverages,Online,C,Jaggaiahpet,Andhra Pradesh,Municipality,7675,31.79,47.45,364178.75,243988.25,120190.5
+450849997,Clothes,Offline,M,Goalpara,Assam,Municipal board,5388,35.84,109.28,588800.64,193105.92,395694.72
+672327935,Personal Care,Online,M,Tuni,Andhra Pradesh,Municipality,5631,56.67,81.73,460221.63,319108.77,141112.86
+925405299,Cereal,Offline,L,Lachhmangarh,Rajasthan,Municipality,6847,117.11,205.7,1408427.9,801852.17,606575.73
+714818418,Household,Offline,H,Bhongir,Telangana,Municipality,9509,502.54,668.27,6354579.43,4778652.86,1575926.57
+515616118,Beverages,Offline,C,Amalapuram,Andhra Pradesh,Municipality,1122,31.79,47.45,53238.9,35668.38,17570.52
+423159730,Cereal,Offline,C,Firozpur Cantt.,Punjab,Cantonment Board / Cantonment,1222,117.11,205.7,251365.4,143108.42,108256.98
+603123080,Personal Care,Offline,H,Vikarabad,Telangana,Municipality,6377,56.67,81.73,521192.21,361384.59,159807.62
+841492497,Meat,Offline,C,Thiruvalla,Kerala,Municipality,5185,364.69,421.89,2187499.65,1890917.65,296582
+994566810,Cereal,Offline,L,Sherkot,Uttar Pradesh,Municipal board,3275,117.11,205.7,673667.5,383535.25,290132.25
+538957345,Vegetables,Offline,M,Palghar,Maharashtra,Municipal Council,8310,90.93,154.06,1280238.6,755628.3,524610.3
+821587932,Fruits,Offline,L,Shegaon,Maharashtra,Municipal Council,4981,6.92,9.33,46472.73,34468.52,12004.21
+109694898,Household,Online,C,Jangaon,Telangana,Municipality,13,502.54,668.27,8687.51,6533.02,2154.49
+340827071,Meat,Offline,M,Bheemunipatnam,Andhra Pradesh,Municipality,7159,364.69,421.89,3020310.51,2610815.71,409494.8
+372845780,Meat,Offline,L,Panna,Madhya Pradesh,Urban Agglomeration,2207,364.69,421.89,931111.23,804870.83,126240.4
+933924853,Fruits,Online,M,Thodupuzha,Kerala,Municipality,7973,6.92,9.33,74388.09,55173.16,19214.93
+572550618,Office Supplies,Online,L,KathUrban Agglomeration,Jammu and Kashmir,Municipal Council,9306,524.96,651.21,6060160.26,4885277.76,1174882.5
+607521903,Meat,Online,M,Palitana,Gujarat,Municipality,8086,364.69,421.89,3411402.54,2948883.34,462519.2
+177950036,Snacks,Online,H,Arwal,Bihar,Nagar Panchayat.,8225,97.44,152.58,1254970.5,801444,453526.5
+293258845,Beverages,Offline,M,Venkatagiri,Andhra Pradesh,Municipality,664,31.79,47.45,31506.8,21108.56,10398.24
+683184659,Beverages,Online,C,Kalpi,Uttar Pradesh,Nagar Palika Parishad,8377,31.79,47.45,397488.65,266304.83,131183.82
+247776305,Cereal,Online,L,Rajgarh (Churu),Rajasthan,Urban Agglomeration,1370,117.11,205.7,281809,160440.7,121368.3
+207395112,Meat,Offline,C,Sattenapalle,Andhra Pradesh,Municipality,1677,364.69,421.89,707509.53,611585.13,95924.4
+952714908,Vegetables,Offline,L,Arsikere,Karnataka,Town Municipal Council,8367,90.93,154.06,1289020.02,760811.31,528208.71
+694722020,Vegetables,Online,C,Ozar,Maharashtra,Census town,2539,90.93,154.06,391158.34,230871.27,160287.07
+414715278,Household,Online,H,Thirumangalam,Tamil Nadu,Municipality,2321,502.54,668.27,1551054.67,1166395.34,384659.33
+714306008,Snacks,Offline,M,Petlad,Gujarat,Municipality,7876,97.44,152.58,1201720.08,767437.44,434282.64
+465418040,Snacks,Online,H,Nasirabad,Rajasthan,Cantonment Board / Cantonment,6396,97.44,152.58,975901.68,623226.24,352675.44
+860287702,Cereal,Online,M,Phaltan,Maharashtra,Municipal Council,7103,117.11,205.7,1461087.1,831832.33,629254.77
+461463820,Vegetables,Online,C,Rampurhat,West Bengal,Municipality,6254,90.93,154.06,963491.24,568676.22,394815.02
+151807725,Baby Food,Offline,M,Nanjangud,Karnataka,Town Municipal Council,2134,159.42,255.28,544767.52,340202.28,204565.24
+884493243,Meat,Offline,C,Forbesganj,Bihar,Municipality,61,364.69,421.89,25735.29,22246.09,3489.2
+533006703,Cosmetics,Offline,M,Tundla,Uttar Pradesh,Nagar Palika Parishad,7383,263.33,437.2,3227847.6,1944165.39,1283682.21
+641146934,Vegetables,Online,C,BhabUrban Agglomeration,Bihar,Nagar Panchayat,8480,90.93,154.06,1306428.8,771086.4,535342.4
+573025262,Cosmetics,Offline,M,Sagara,Karnataka,Town Municipal Council,9764,263.33,437.2,4268820.8,2571154.12,1697666.68
+663065516,Household,Offline,C,Pithapuram,Andhra Pradesh,Municipality,4676,502.54,668.27,3124830.52,2349877.04,774953.48
+866004025,Beverages,Online,M,Sira,Karnataka,Town Municipal Council,8691,31.79,47.45,412387.95,276286.89,136101.06
+306889617,Baby Food,Online,H,Bhadrachalam,Telangana,Census town,4312,159.42,255.28,1100767.36,687419.04,413348.32
+431083619,Personal Care,Online,M,Charkhi Dadri,Haryana,Nagar Palika Parishad,6077,56.67,81.73,496673.21,344383.59,152289.62
+954259860,Personal Care,Online,H,Chatra,Jharkhand,Municipality,5553,56.67,81.73,453846.69,314688.51,139158.18
+312404668,Personal Care,Offline,C,Palasa Kasibugga,Andhra Pradesh,Nagar Panchayat,6338,56.67,81.73,518004.74,359174.46,158830.28
+611816871,Office Supplies,Offline,C,Nohar,Rajasthan,Municipality,9063,524.96,651.21,5901916.23,4757712.48,1144203.75
+879107797,Office Supplies,Online,C,Yevla,Maharashtra,Municipal Council,6388,524.96,651.21,4159929.48,3353444.48,806485
+211202274,Vegetables,Offline,C,Sirhind Fatehgarh Sahib,Punjab,Municipal Council,8005,90.93,154.06,1233250.3,727894.65,505355.65
+925333631,Fruits,Online,H,Bhainsa,Telangana,Municipality,5639,6.92,9.33,52611.87,39021.88,13589.99
+909053695,Snacks,Offline,C,Parvathipuram,Andhra Pradesh,Municipality,8044,97.44,152.58,1227353.52,783807.36,443546.16
+370222795,Baby Food,Online,L,Shahade,Maharashtra,Municipal Council,6007,159.42,255.28,1533466.96,957635.94,575831.02
+487014758,Cosmetics,Offline,H,Chalakudy,Kerala,Municipality,7344,263.33,437.2,3210796.8,1933895.52,1276901.28
+257915914,Vegetables,Online,M,Narkatiaganj,Bihar,Nagar Parishad,1905,90.93,154.06,293484.3,173221.65,120262.65
+551725089,Meat,Offline,M,Kapadvanj,Gujarat,Municipality,6569,364.69,421.89,2771395.41,2395648.61,375746.8
+957553613,Meat,Offline,L,Macherla,Andhra Pradesh,Municipality,248,364.69,421.89,104628.72,90443.12,14185.6
+234825313,Office Supplies,Offline,L,Raghogarh-Vijaypur,Madhya Pradesh,Municipality,8883,524.96,651.21,5784698.43,4663219.68,1121478.75
+363276517,Snacks,Online,M,Rupnagar,Punjab,Municipal Council,449,97.44,152.58,68508.42,43750.56,24757.86
+692956054,Personal Care,Online,M,Naugachhia,Bihar,Nagar Panchayat,9950,56.67,81.73,813213.5,563866.5,249347
+194225251,Cosmetics,Online,H,Sendhwa,Madhya Pradesh,Municipality,4423,263.33,437.2,1933735.6,1164708.59,769027.01
+607757937,Fruits,Online,L,Byasanagar,Odisha,Municipality,7934,6.92,9.33,74024.22,54903.28,19120.94
+594540441,Cereal,Offline,H,Sandila,Uttar Pradesh,Municipal board,6583,117.11,205.7,1354123.1,770935.13,583187.97
+685871589,Vegetables,Online,L,Gooty,Andhra Pradesh,Census town,3500,90.93,154.06,539210,318255,220955
+133362710,Cereal,Offline,C,Salur,Andhra Pradesh,Municipality,3844,117.11,205.7,790710.8,450170.84,340539.96
+958937633,Clothes,Offline,H,Nanpara,Uttar Pradesh,Nagar Palika Parishad,9810,35.84,109.28,1072036.8,351590.4,720446.4
+304832684,Vegetables,Online,C,Sardhana,Uttar Pradesh,Municipal board,5620,90.93,154.06,865817.2,511026.6,354790.6
+783596694,Baby Food,Offline,L,Vita,Maharashtra,Municipal Council,2530,159.42,255.28,645858.4,403332.6,242525.8
+128090989,Household,Offline,C,Gumia,Jharkhand,Census town,3825,502.54,668.27,2556132.75,1922215.5,633917.25
+641489398,Vegetables,Offline,M,Puttur,Karnataka,Town Municipal Council,9823,90.93,154.06,1513331.38,893205.39,620125.99
+647278249,Clothes,Offline,M,Jalandhar Cantt.,Punjab,Cantonment Board / Cantonment,2873,35.84,109.28,313961.44,102968.32,210993.12
+339256370,Clothes,Online,H,Nehtaur,Uttar Pradesh,Nagar Palika Parishad,2354,35.84,109.28,257245.12,84367.36,172877.76
+431535089,Baby Food,Offline,M,Changanassery,Kerala,Municipality,9677,159.42,255.28,2470344.56,1542707.34,927637.22
+808538234,Cereal,Offline,C,Mandapeta,Andhra Pradesh,Municipality,3286,117.11,205.7,675930.2,384823.46,291106.74
+975002133,Personal Care,Online,C,Dumka,Jharkhand,Notified area committee / Notified Area Council,3653,56.67,81.73,298559.69,207015.51,91544.18
+505975615,Snacks,Online,H,Seohara,Uttar Pradesh,Urban Agglomeration,8283,97.44,152.58,1263820.14,807095.52,456724.62
+396820008,Vegetables,Offline,M,Umarkhed,Maharashtra,Municipal Council,6714,90.93,154.06,1034358.84,610504.02,423854.82
+813209140,Vegetables,Online,H,Madhupur,Jharkhand,Municipality,5511,90.93,154.06,849024.66,501115.23,347909.43
+641129338,Baby Food,Online,M,Vikramasingapuram,Tamil Nadu,Municipality,3273,159.42,255.28,835531.44,521781.66,313749.78
+636879432,Meat,Offline,C,Punalur,Kerala,Municipality,5632,364.69,421.89,2376084.48,2053934.08,322150.4
+277070748,Snacks,Online,C,Kendrapara,Odisha,Municipality,246,97.44,152.58,37534.68,23970.24,13564.44
+908627116,Cosmetics,Offline,H,Sihor,Gujarat,Municipality,1810,263.33,437.2,791332,476627.3,314704.7
+798784863,Cosmetics,Offline,C,Nellikuppam,Tamil Nadu,Municipality,7047,263.33,437.2,3080948.4,1855686.51,1225261.89
+985092818,Beverages,Offline,H,Samana,Punjab,Municipal Council,9711,31.79,47.45,460786.95,308712.69,152074.26
+325412309,Snacks,Offline,C,Warora,Maharashtra,Municipal Council,5588,97.44,152.58,852617.04,544494.72,308122.32
+447917163,Beverages,Online,M,Nilambur,Kerala,Census town,7497,31.79,47.45,355732.65,238329.63,117403.02
+801093709,Meat,Offline,M,Rasipuram,Tamil Nadu,Municipality,285,364.69,421.89,120238.65,103936.65,16302
+903740775,Fruits,Offline,H,Ramnagar,Uttarakhand,Municipal board,5833,6.92,9.33,54421.89,40364.36,14057.53
+794969689,Meat,Offline,L,Jammalamadugu,Andhra Pradesh,Nagar Panchayat,8052,364.69,421.89,3397058.28,2936483.88,460574.4
+584204280,Clothes,Online,L,Nawanshahr,Punjab,Municipal Council,7884,35.84,109.28,861563.52,282562.56,579000.96
+901180875,Cereal,Offline,H,Thoubal,Manipur,Municipal Council,8302,117.11,205.7,1707721.4,972247.22,735474.18
+645948302,Snacks,Offline,L,Athni,Karnataka,Town Municipal Council,9312,97.44,152.58,1420824.96,907361.28,513463.68
+138867890,Cereal,Online,L,Cherthala,Kerala,Municipality,2950,117.11,205.7,606815,345474.5,261340.5
+670613467,Beverages,Offline,L,Sidhi,Madhya Pradesh,Municipality,8282,31.79,47.45,392980.9,263284.78,129696.12
+452171361,Cosmetics,Offline,L,Farooqnagar,Telangana,Census town.,6409,263.33,437.2,2802014.8,1687681.97,1114332.83
+464840400,Snacks,Online,H,Peddapuram,Andhra Pradesh,Municipality,5459,97.44,152.58,832934.22,531924.96,301009.26
+410231912,Household,Online,M,Chirkunda,Jharkhand,Nagar Panchayat,5594,502.54,668.27,3738302.38,2811208.76,927093.62
+960269725,Meat,Offline,H,Pachora,Maharashtra,Municipal Council,4006,364.69,421.89,1690091.34,1460948.14,229143.2
+607190167,Beverages,Offline,L,Madhepura,Bihar,Municipality,9919,31.79,47.45,470656.55,315325.01,155331.54
+613542068,Meat,Offline,H,Pithoragarh,Uttarakhand,Municipal board,9587,364.69,421.89,4044659.43,3496283.03,548376.4
+962186753,Household,Offline,C,Tumsar,Maharashtra,Municipal Council,1297,502.54,668.27,866746.19,651794.38,214951.81
+806298053,Beverages,Online,L,Phalodi,Rajasthan,Urban Agglomeration,366,31.79,47.45,17366.7,11635.14,5731.56
+719362294,Personal Care,Online,L,Tiruttani,Tamil Nadu,Municipality,4144,56.67,81.73,338689.12,234840.48,103848.64
+445178306,Baby Food,Online,H,Rampura Phul,Punjab,Urban Agglomeration,7008,159.42,255.28,1789002.24,1117215.36,671786.88
+247857415,Cosmetics,Offline,C,Perinthalmanna,Kerala,Municipality,5372,263.33,437.2,2348638.4,1414608.76,934029.64
+461823451,Vegetables,Offline,C,Padrauna,Uttar Pradesh,Municipal board,2677,90.93,154.06,412418.62,243419.61,168999.01
+141812741,Office Supplies,Offline,C,Pipariya,Madhya Pradesh,Urban Agglomeration,4396,524.96,651.21,2862719.16,2307724.16,554995
+212874114,Meat,Online,C,Dalli-Rajhara,Chhattisgarh,Municipality,3036,364.69,421.89,1280858.04,1107198.84,173659.2
+320368897,Office Supplies,Offline,C,Punganur,Andhra Pradesh,Nagar Panchayat,3131,524.96,651.21,2038938.51,1643649.76,395288.75
+179970920,Beverages,Online,C,Mattannur,Kerala,Municipality,6249,31.79,47.45,296515.05,198655.71,97859.34
+927666509,Household,Online,H,Mathura,Uttar Pradesh,Municipality,5990,502.54,668.27,4002937.3,3010214.6,992722.7
+169754493,Office Supplies,Online,L,Thakurdwara,Uttar Pradesh,Nagar Palika Parishad.,2982,524.96,651.21,1941908.22,1565430.72,376477.5
+532846200,Personal Care,Offline,M,Nandivaram-Guduvancheri,Tamil Nadu,Town Panchayat,9886,56.67,81.73,807982.78,560239.62,247743.16
+213865458,Snacks,Online,C,Mulbagal,Karnataka,Town Municipal Council,6397,97.44,152.58,976054.26,623323.68,352730.58
+630048596,Office Supplies,Online,C,Manjlegaon,Maharashtra,Municipal Council,4236,524.96,651.21,2758525.56,2223730.56,534795
+568944442,Clothes,Offline,H,Wankaner,Gujarat,Municipality,2158,35.84,109.28,235826.24,77342.72,158483.52
+238414323,Baby Food,Online,L,Sillod,Maharashtra,Municipal Council,951,159.42,255.28,242771.28,151608.42,91162.86
+816632068,Office Supplies,Online,L,Nidadavole,Andhra Pradesh,Municipality,8431,524.96,651.21,5490351.51,4425937.76,1064413.75
+402084004,Baby Food,Online,C,Surapura,Karnataka,Town Municipal Council,4447,159.42,255.28,1135230.16,708940.74,426289.42
+763568961,Snacks,Online,L,Rajagangapur,Odisha,Municipality,5879,97.44,152.58,897017.82,572849.76,324168.06
+590198266,Snacks,Offline,L,Sheikhpura,Bihar,Municipality,1637,97.44,152.58,249773.46,159509.28,90264.18
+441395747,Snacks,Online,L,Parlakhemundi,Odisha,Municipality,7665,97.44,152.58,1169525.7,746877.6,422648.1
+496897733,Personal Care,Offline,H,Kalimpong,West Bengal,Municipality,1936,56.67,81.73,158229.28,109713.12,48516.16
+106753051,Beverages,Online,C,Siruguppa,Karnataka,Town Panchayat,9455,31.79,47.45,448639.75,300574.45,148065.3
+941323029,Fruits,Offline,L,Arvi,Maharashtra,Municipal Council,7258,6.92,9.33,67717.14,50225.36,17491.78
+241281497,Vegetables,Offline,M,Limbdi,Gujarat,Municipality,9412,90.93,154.06,1450012.72,855833.16,594179.56
+267614781,Meat,Offline,L,Barpeta,Assam,Municipal board,2016,364.69,421.89,850530.24,735215.04,115315.2
+651621711,Cosmetics,Offline,M,Manglaur,Uttarakhand,Municipal board,8200,263.33,437.2,3585040,2159306,1425734
+644913613,Personal Care,Online,M,Repalle,Andhra Pradesh,Municipality,3124,56.67,81.73,255324.52,177037.08,78287.44
+469414317,Cereal,Offline,H,Mudhol,Karnataka,Town Municipal Council,8983,117.11,205.7,1847803.1,1051999.13,795803.97
+867360150,Clothes,Online,L,Shujalpur,Madhya Pradesh,Municipality,9998,35.84,109.28,1092581.44,358328.32,734253.12
+851299941,Clothes,Online,L,Mandvi,Gujarat,Municipality,7425,35.84,109.28,811404,266112,545292
+854095017,Beverages,Offline,H,Thangadh,Gujarat,Municipality,4550,31.79,47.45,215897.5,144644.5,71253
+478919208,Vegetables,Offline,C,Sironj,Madhya Pradesh,Municipality,1691,90.93,154.06,260515.46,153762.63,106752.83
+749258840,Clothes,Offline,H,Nandura,Maharashtra,Municipal Council,1196,35.84,109.28,130698.88,42864.64,87834.24
+958912742,Baby Food,Offline,H,Shoranur,Kerala,Municipality,2444,159.42,255.28,623904.32,389622.48,234281.84
+921992242,Personal Care,Online,C,Nathdwara,Rajasthan,Municipality,6848,56.67,81.73,559687.04,388076.16,171610.88
+522921168,Vegetables,Online,L,Periyakulam,Tamil Nadu,Municipality,2849,90.93,154.06,438916.94,259059.57,179857.37
+166435849,Personal Care,Offline,C,Sultanganj,Bihar,Notified area,921,56.67,81.73,75273.33,52193.07,23080.26
+327585113,Baby Food,Offline,L,Medak,Telangana,Nagar Panchayat,8569,159.42,255.28,2187494.32,1366069.98,821424.34
+201730287,Clothes,Offline,M,Narayanpet,Telangana,Nagar Panchayat,5330,35.84,109.28,582462.4,191027.2,391435.2
+854545199,Fruits,Offline,L,Raxaul Bazar,Bihar,Municipality,7769,6.92,9.33,72484.77,53761.48,18723.29
+272016179,Personal Care,Online,M,Rajauri,Jammu and Kashmir,Notified area committee / Notified Area Council,4487,56.67,81.73,366722.51,254278.29,112444.22
+110442054,Cereal,Offline,H,Pernampattu,Tamil Nadu,Town Panchayat,1113,117.11,205.7,228944.1,130343.43,98600.67
+746434152,Household,Offline,C,Nainital,Uttarakhand,Nagar Palika Parishad,5308,502.54,668.27,3547177.16,2667482.32,879694.84
+826916301,Vegetables,Online,L,Ramachandrapuram,Andhra Pradesh,Municipality,1764,90.93,154.06,271761.84,160400.52,111361.32
+419124829,Beverages,Offline,H,Vaijapur,Maharashtra,Municipal Council,7206,31.79,47.45,341924.7,229078.74,112845.96
+560608565,Office Supplies,Online,C,Nangal,Punjab,Municipal Council,5387,524.96,651.21,3508068.27,2827959.52,680108.75
+109228837,Office Supplies,Offline,L,Sidlaghatta,Karnataka,Town Municipal Council,2095,524.96,651.21,1364284.95,1099791.2,264493.75
+693159472,Clothes,Offline,C,Punch,Jammu and Kashmir,Municipal board,146,35.84,109.28,15954.88,5232.64,10722.24
+860886800,Snacks,Offline,L,Pandhurna,Madhya Pradesh,Municipality,4390,97.44,152.58,669826.2,427761.6,242064.6
+131209647,Fruits,Offline,C,Wadgaon Road,Maharashtra,Census town.,6705,6.92,9.33,62557.65,46398.6,16159.05
+343239343,Office Supplies,Online,H,Talcher,Odisha,Municipality,1004,524.96,651.21,653814.84,527059.84,126755
+706399714,Clothes,Online,H,Varkala,Kerala,Municipality,8228,35.84,109.28,899155.84,294891.52,604264.32
+950427091,Office Supplies,Online,M,Pilani,Rajasthan,Urban Agglomeration,1352,524.96,651.21,880435.92,709745.92,170690
+875370299,Snacks,Offline,H,Nowgong,Madhya Pradesh,Municipality,379,97.44,152.58,57827.82,36929.76,20898.06
+801590669,Clothes,Online,C,Naila Janjgir,Chhattisgarh,Municipality,7347,35.84,109.28,802880.16,263316.48,539563.68
+219762027,Personal Care,Offline,C,Mapusa,Goa,Municipal Council,1322,56.67,81.73,108047.06,74917.74,33129.32
+940870702,Cereal,Offline,C,Vellakoil,Tamil Nadu,Municipality,3404,117.11,205.7,700202.8,398642.44,301560.36
+346215522,Fruits,Online,M,Merta City,Rajasthan,Municipality,1721,6.92,9.33,16056.93,11909.32,4147.61
+837407815,Clothes,Offline,C,Sivaganga,Tamil Nadu,Urban Agglomeration,6436,35.84,109.28,703326.08,230666.24,472659.84
+386371409,Meat,Online,L,Mandideep,Madhya Pradesh,Municipality,4741,364.69,421.89,2000180.49,1728995.29,271185.2
+185342633,Beverages,Offline,H,Sailu,Maharashtra,Municipal Council,5859,31.79,47.45,278009.55,186257.61,91751.94
+596870315,Snacks,Offline,C,Vyara,Gujarat,Municipality,6045,97.44,152.58,922346.1,589024.8,333321.3
+703815782,Meat,Online,C,Kovvur,Andhra Pradesh,Municipality,3585,364.69,421.89,1512475.65,1307413.65,205062
+559352862,Personal Care,Online,C,Vadalur,Tamil Nadu,Town Panchayat,3797,56.67,81.73,310328.81,215175.99,95152.82
+736967885,Cosmetics,Offline,C,Nawabganj,Uttar Pradesh,Nagar Palika Parishad,4029,263.33,437.2,1761478.8,1060956.57,700522.23
+980459678,Clothes,Offline,C,Padra,Gujarat,Urban Agglomeration,8661,35.84,109.28,946474.08,310410.24,636063.84
+653939568,Vegetables,Offline,C,Sainthia,West Bengal,Municipality,4105,90.93,154.06,632416.3,373267.65,259148.65
+991831386,Cosmetics,Online,H,Siana,Uttar Pradesh,Municipal board,3803,263.33,437.2,1662671.6,1001443.99,661227.61
+148871457,Cereal,Online,L,Shahpur,Karnataka,Town Municipal Council,3227,117.11,205.7,663793.9,377913.97,285879.93
+850108611,Fruits,Online,H,Sojat,Rajasthan,Municipality,4884,6.92,9.33,45567.72,33797.28,11770.44
+940904176,Office Supplies,Offline,M,Noorpur,Uttar Pradesh,Nagar Palika Parishad,3309,524.96,651.21,2154853.89,1737092.64,417761.25
+136931979,Office Supplies,Offline,H,Paravoor,Kerala,Municipality,70,524.96,651.21,45584.7,36747.2,8837.5
+474178349,Beverages,Offline,L,Murtijapur,Maharashtra,Municipal Council,8766,31.79,47.45,415946.7,278671.14,137275.56
+458942115,Personal Care,Offline,L,Ramnagar,Bihar,Notified area,25,56.67,81.73,2043.25,1416.75,626.5
+917834603,Beverages,Offline,C,Sundargarh,Odisha,Municipality,6510,31.79,47.45,308899.5,206952.9,101946.6
+947779643,Personal Care,Offline,H,Taki,West Bengal,Municipality,7913,56.67,81.73,646729.49,448429.71,198299.78
+166013562,Clothes,Online,L,Saundatti-Yellamma,Karnataka,Town Municipal Council,5957,35.84,109.28,650980.96,213498.88,437482.08
+960085189,Beverages,Online,L,Pathanamthitta,Kerala,Municipality,9397,31.79,47.45,445887.65,298730.63,147157.02
+837855851,Cosmetics,Offline,C,Wadi,Karnataka,Town Municipal Council,9020,263.33,437.2,3943544,2375236.6,1568307.4
+977499377,Snacks,Offline,L,Rameshwaram,Tamil Nadu,Town Panchayat,2643,97.44,152.58,403268.94,257533.92,145735.02
+377502095,Beverages,Online,L,Tasgaon,Maharashtra,Municipal Council,114,31.79,47.45,5409.3,3624.06,1785.24
+806662833,Meat,Offline,H,Sikandra Rao,Uttar Pradesh,Municipal board,8313,364.69,421.89,3507171.57,3031667.97,475503.6
+954092919,Vegetables,Online,H,Sihora,Madhya Pradesh,Municipality,6152,90.93,154.06,947777.12,559401.36,388375.76
+479216182,Meat,Online,L,Tiruvethipuram,Tamil Nadu,Municipality,9572,364.69,421.89,4038331.08,3490812.68,547518.4
+461768949,Personal Care,Online,H,Tiruvuru,Andhra Pradesh,Municipality,6548,56.67,81.73,535168.04,371075.16,164092.88
+251800048,Meat,Online,C,Mehkar,Maharashtra,Municipal Council,2085,364.69,421.89,879640.65,760378.65,119262
+619670808,Personal Care,Offline,L,Peringathur,Kerala,Census town,3217,56.67,81.73,262925.41,182307.39,80618.02
+606055057,Household,Offline,H,Perambalur,Tamil Nadu,Town Panchayat,4014,502.54,668.27,2682435.78,2017195.56,665240.22
+671939122,Baby Food,Online,L,Manvi,Karnataka,Town Municipal Council,573,159.42,255.28,146275.44,91347.66,54927.78
+448621833,Cosmetics,Offline,M,Zunheboto,Nagaland,Town Committee / Town Area Committee,6025,263.33,437.2,2634130,1586563.25,1047566.75
+987714517,Fruits,Online,M,Mahnar Bazar,Bihar,Municipality,5530,6.92,9.33,51594.9,38267.6,13327.3
+711141002,Household,Online,H,Attingal,Kerala,Municipality,1280,502.54,668.27,855385.6,643251.2,212134.4
+361137616,Office Supplies,Online,C,Shahbad,Haryana,Municipal Committee,7501,524.96,651.21,4884726.21,3937724.96,947001.25
+750253188,Household,Offline,H,Puranpur,Uttar Pradesh,Municipal board,5446,502.54,668.27,3639398.42,2736832.84,902565.58
+511349046,Office Supplies,Online,C,Nelamangala,Karnataka,Town Municipal Council,8401,524.96,651.21,5470815.21,4410188.96,1060626.25
+147599017,Personal Care,Offline,L,Nakodar,Punjab,Municipal Council,6684,56.67,81.73,546283.32,378782.28,167501.04
+682489430,Beverages,Online,H,Lunawada,Gujarat,Municipality,2644,31.79,47.45,125457.8,84052.76,41405.04
+509819114,Vegetables,Offline,M,Murshidabad,West Bengal,Municipality,5660,90.93,154.06,871979.6,514663.8,357315.8
+343699395,Office Supplies,Offline,M,Mahe,Puducherry,Municipality,7144,524.96,651.21,4652244.24,3750314.24,901930
+968554103,Clothes,Offline,L,Lanka,Assam,Municipal board,5537,35.84,109.28,605083.36,198446.08,406637.28
+989119565,Beverages,Online,M,Rudauli,Uttar Pradesh,Municipal board,1315,31.79,47.45,62396.75,41803.85,20592.9
+880444610,Vegetables,Offline,M,Tuensang,Nagaland,Town Committee / Town Area Committee,1980,90.93,154.06,305038.8,180041.4,124997.4
+737890565,Vegetables,Offline,L,Lakshmeshwar,Karnataka,Town Municipal Council,7071,90.93,154.06,1089358.26,642966.03,446392.23
+727131259,Vegetables,Online,M,Zira,Punjab,Municipal Council,3153,90.93,154.06,485751.18,286702.29,199048.89
+634153020,Office Supplies,Offline,L,Yawal,Maharashtra,Municipal Council,8826,524.96,651.21,5747579.46,4633296.96,1114282.5
+315254676,Beverages,Online,H,Thana Bhawan,Uttar Pradesh,Nagar Panchayat.,9719,31.79,47.45,461166.55,308967.01,152199.54
+147047555,Personal Care,Offline,M,Ramdurg,Karnataka,Urban Agglomeration,3494,56.67,81.73,285564.62,198004.98,87559.64
+576455485,Household,Online,L,Pulgaon,Maharashtra,Municipal Council,4843,502.54,668.27,3236431.61,2433801.22,802630.39
+770714795,Snacks,Offline,L,Sadasivpet,Telangana,Municipality,490,97.44,152.58,74764.2,47745.6,27018.6
+867374312,Cosmetics,Offline,H,Nargund,Karnataka,Town Municipal Council,4189,263.33,437.2,1831430.8,1103089.37,728341.43
+624295365,Fruits,Online,L,Neem-Ka-Thana,Rajasthan,Municipality,1727,6.92,9.33,16112.91,11950.84,4162.07
+769651782,Clothes,Offline,M,Memari,West Bengal,Municipality,5921,35.84,109.28,647046.88,212208.64,434838.24
+751929891,Vegetables,Online,C,Nilanga,Maharashtra,Municipal Council,1619,90.93,154.06,249423.14,147215.67,102207.47
+989928519,Office Supplies,Online,H,Naharlagun,Arunachal Pradesh,Notified Town,702,524.96,651.21,457149.42,368521.92,88627.5
+622758996,Meat,Offline,H,Pakaur,Jharkhand,Municipality,7081,364.69,421.89,2987403.09,2582369.89,405033.2
+659845149,Baby Food,Online,H,Wai,Maharashtra,Municipal Council,1698,159.42,255.28,433465.44,270695.16,162770.28
+830923306,Baby Food,Offline,H,Tarikere,Karnataka,Town Municipal Council,7526,159.42,255.28,1921237.28,1199794.92,721442.36
+936042296,Beverages,Offline,L,Malavalli,Karnataka,Town Municipal Council,4571,31.79,47.45,216893.95,145312.09,71581.86
+395563447,Household,Online,L,Raisen,Madhya Pradesh,Municipality,4869,502.54,668.27,3253806.63,2446867.26,806939.37
+500160586,Meat,Offline,M,Lahar,Madhya Pradesh,Nagar Panchayat,7487,364.69,421.89,3158690.43,2730434.03,428256.4
+360820043,Fruits,Online,L,Uravakonda,Andhra Pradesh,Census town,3524,6.92,9.33,32878.92,24386.08,8492.84
+958840644,Snacks,Online,C,Savanur,Karnataka,Town Municipal Council,1109,97.44,152.58,169211.22,108060.96,61150.26
+195833718,Baby Food,Online,M,Sirohi,Rajasthan,Municipality,404,159.42,255.28,103133.12,64405.68,38727.44
+543723094,Personal Care,Offline,M,Udhampur,Jammu and Kashmir,Urban Agglomeration,8601,56.67,81.73,702959.73,487418.67,215541.06
+494745099,Cosmetics,Offline,H,Umarga,Maharashtra,Municipal Council,4924,263.33,437.2,2152772.8,1296636.92,856135.88
+411448562,Vegetables,Online,H,Pratapgarh,Rajasthan,Municipality,5628,90.93,154.06,867049.68,511754.04,355295.64
+276694810,Personal Care,Offline,H,Lingsugur,Karnataka,Town Municipal Council,8998,56.67,81.73,735406.54,509916.66,225489.88
+143657672,Office Supplies,Offline,M,Usilampatti,Tamil Nadu,Municipality,352,524.96,651.21,229225.92,184785.92,44440
+585823476,Baby Food,Online,L,Palia Kalan,Uttar Pradesh,Municipal board,7040,159.42,255.28,1797171.2,1122316.8,674854.4
+446991050,Clothes,Online,C,Wokha,Nagaland,Town Committee / Town Area Committee.,3440,35.84,109.28,375923.2,123289.6,252633.6
+891271722,Clothes,Offline,M,Rajpipla,Gujarat,Municipality,5963,35.84,109.28,651636.64,213713.92,437922.72
+453089320,Cosmetics,Online,C,Vijayapura,Karnataka,Town Municipal Council,8053,263.33,437.2,3520771.6,2120596.49,1400175.11
+887180173,Baby Food,Offline,L,Rawatbhata,Rajasthan,Municipality,5183,159.42,255.28,1323116.24,826273.86,496842.38
+418593108,Cosmetics,Online,L,Sangaria,Rajasthan,Municipality,9858,263.33,437.2,4309917.6,2595907.14,1714010.46
+492689454,Personal Care,Online,M,Paithan,Maharashtra,Municipal Council,6613,56.67,81.73,540480.49,374758.71,165721.78
+825143039,Cosmetics,Online,M,Rahuri,Maharashtra,Municipal Council,7017,263.33,437.2,3067832.4,1847786.61,1220045.79
+751940190,Vegetables,Online,L,Patti,Punjab,Municipal Council,4667,90.93,154.06,718998.02,424370.31,294627.71
+579379737,Baby Food,Offline,H,Zaidpur,Uttar Pradesh,Nagar Panchayat,194,159.42,255.28,49524.32,30927.48,18596.84
+234073007,Meat,Online,C,Lalsot,Rajasthan,Municipality,6259,364.69,421.89,2640609.51,2282594.71,358014.8
+612943828,Meat,Online,C,Maihar,Madhya Pradesh,Municipality,2554,364.69,421.89,1077507.06,931418.26,146088.8
+433228528,Fruits,Online,C,Vedaranyam,Tamil Nadu,Municipality,804,6.92,9.33,7501.32,5563.68,1937.64
+282475936,Fruits,Online,L,Nawapur,Maharashtra,Municipal Council,9762,6.92,9.33,91079.46,67553.04,23526.42
+368547379,Meat,Online,M,Solan,Himachal Pradesh,Municipal Council,214,364.69,421.89,90284.46,78043.66,12240.8
+969616687,Meat,Offline,H,Vapi,Gujarat,Industrial Notified Area,9980,364.69,421.89,4210462.2,3639606.2,570856
+184170186,Baby Food,Online,L,Sanawad,Madhya Pradesh,Municipality,8906,159.42,255.28,2273523.68,1419794.52,853729.16
+681006705,Fruits,Online,C,Warisaliganj,Bihar,Nagar Panchayat.,3872,6.92,9.33,36125.76,26794.24,9331.52
+249237573,Baby Food,Online,L,Revelganj,Bihar,Municipality,3791,159.42,255.28,967766.48,604361.22,363405.26
+348286616,Vegetables,Offline,H,Sabalgarh,Madhya Pradesh,Urban Agglomeration,4604,90.93,154.06,709292.24,418641.72,290650.52
+257890164,Clothes,Offline,L,Tuljapur,Maharashtra,Municipal Council,4285,35.84,109.28,468264.8,153574.4,314690.4
+228097045,Cosmetics,Online,H,Simdega,Jharkhand,Notified area,7839,263.33,437.2,3427210.8,2064243.87,1362966.93
+129268586,Cereal,Online,C,Musabani,Jharkhand,Census town,2302,117.11,205.7,473521.4,269587.22,203934.18
+802078616,Cosmetics,Online,M,Kodungallur,Kerala,Municipality,1741,263.33,437.2,761165.2,458457.53,302707.67
+907513463,Clothes,Offline,C,Phulabani,Odisha,Notified area committee / Notified Area Council,2256,35.84,109.28,246535.68,80855.04,165680.64
+976871955,Vegetables,Online,L,Umreth,Gujarat,Municipality,6975,90.93,154.06,1074568.5,634236.75,440331.75
+261765420,Cereal,Offline,C,Narsipatnam,Andhra Pradesh,Census town,1060,117.11,205.7,218042,124136.6,93905.4
+784117686,Vegetables,Offline,L,Nautanwa,Uttar Pradesh,Nagar Palika Parishad,6703,90.93,154.06,1032664.18,609503.79,423160.39
+586165082,Cosmetics,Offline,M,Rajgir,Bihar,Notified area,8128,263.33,437.2,3553561.6,2140346.24,1413215.36
+480456435,Snacks,Online,C,Yellandu,Telangana,Municipality,6591,97.44,152.58,1005654.78,642227.04,363427.74
+899853074,Cereal,Online,L,Sathyamangalam,Tamil Nadu,Municipality,5376,117.11,205.7,1105843.2,629583.36,476259.84
+547528827,Baby Food,Offline,L,Pilibanga,Rajasthan,Municipality,4802,159.42,255.28,1225854.56,765534.84,460319.72
+446970021,Vegetables,Online,L,Morshi,Maharashtra,Municipal Council,7217,90.93,154.06,1111851.02,656241.81,455609.21
+791975486,Beverages,Offline,H,Pehowa,Haryana,Municipal Committee,2001,31.79,47.45,94947.45,63611.79,31335.66
+496656548,Vegetables,Offline,M,Sonepur,Bihar,Notified area,564,90.93,154.06,86889.84,51284.52,35605.32
+345437037,Vegetables,Offline,C,Pappinisseri,Kerala,Census town,1351,90.93,154.06,208135.06,122846.43,85288.63
+743053281,Vegetables,Offline,H,Zamania,Uttar Pradesh,Nagar Panchayat,4833,90.93,154.06,744571.98,439464.69,305107.29
+364554107,Snacks,Offline,L,Mihijam,Jharkhand,Notified area,8516,97.44,152.58,1299371.28,829799.04,469572.24
+205300843,Cosmetics,Online,H,Purna,Maharashtra,Municipal Council,1937,263.33,437.2,846856.4,510070.21,336786.19
+430967319,Household,Online,M,Puliyankudi,Tamil Nadu,Municipality,1661,502.54,668.27,1109996.47,834718.94,275277.53
+827539861,Meat,Offline,H,"Shikarpur, Bulandshahr",Uttar Pradesh,Municipal board,6289,364.69,421.89,2653266.21,2293535.41,359730.8
+351317298,Snacks,Offline,H,Umaria,Madhya Pradesh,Municipality,1450,97.44,152.58,221241,141288,79953
+278910958,Household,Offline,C,Porsa,Madhya Pradesh,Municipality,4805,502.54,668.27,3211037.35,2414704.7,796332.65
+157244670,Cosmetics,Offline,C,Naugawan Sadat,Uttar Pradesh,Nagar Panchayat,1047,263.33,437.2,457748.4,275706.51,182041.89
+953554761,Beverages,Online,L,Fatehpur Sikri,Uttar Pradesh,Municipal board.,6899,31.79,47.45,327357.55,219319.21,108038.34
+105390059,Cereal,Online,L,Manuguru,Telangana,Census town,6115,117.11,205.7,1257855.5,716127.65,541727.85
+970611894,Cosmetics,Offline,L,Udaipur,Tripura,Municipal Council,4483,263.33,437.2,1959967.6,1180508.39,779459.21
+677394092,Baby Food,Offline,M,Pipar City,Rajasthan,Municipality,4820,159.42,255.28,1230449.6,768404.4,462045.2
+474222981,Baby Food,Online,L,Pattamundai,Odisha,Notified area committee / Notified Area Council,1973,159.42,255.28,503667.44,314535.66,189131.78
+779897391,Snacks,Online,L,Nanjikottai,Tamil Nadu,Census town,7824,97.44,152.58,1193785.92,762370.56,431415.36
+733528649,Snacks,Offline,L,Taranagar,Rajasthan,Municipality,6283,97.44,152.58,958660.14,612215.52,346444.62
+444540584,Office Supplies,Online,H,Yerraguntla,Andhra Pradesh,Census town,8292,524.96,651.21,5399833.32,4352968.32,1046865
+542669522,Clothes,Online,H,Satana,Maharashtra,Municipal Council,6826,35.84,109.28,745945.28,244643.84,501301.44
+827964293,Fruits,Offline,L,Sherghati,Bihar,Notified area,1888,6.92,9.33,17615.04,13064.96,4550.08
+720786225,Snacks,Offline,M,Sankeshwara,Karnataka,Town Municipal Council,5516,97.44,152.58,841631.28,537479.04,304152.24
+611809146,Household,Offline,H,Madikeri,Karnataka,Town Municipal Council,6777,502.54,668.27,4528865.79,3405713.58,1123152.21
+512019383,Personal Care,Online,M,Thuraiyur,Tamil Nadu,Municipality,6769,56.67,81.73,553230.37,383599.23,169631.14
+502715766,Personal Care,Online,C,Sanand,Gujarat,Municipality,3621,56.67,81.73,295944.33,205202.07,90742.26
+285509622,Office Supplies,Offline,M,Rajula,Gujarat,Municipality,7497,524.96,651.21,4882121.37,3935625.12,946496.25
+532324779,Beverages,Offline,L,Kyathampalle,Telangana,Census town,5586,31.79,47.45,265055.7,177578.94,87476.76
+635397565,Personal Care,Offline,H,"Shahabad, Rampur",Uttar Pradesh,Nagar Panchayat,7114,56.67,81.73,581427.22,403150.38,178276.84
+957276809,Cereal,Offline,M,Tilda Newra,Chhattisgarh,Municipality,8335,117.11,205.7,1714509.5,976111.85,738397.65
+580823838,Snacks,Online,L,Narsinghgarh,Madhya Pradesh,Municipality,7536,97.44,152.58,1149842.88,734307.84,415535.04
+459212481,Office Supplies,Offline,H,Chittur-Thathamangalam,Kerala,Municipality,33,524.96,651.21,21489.93,17323.68,4166.25
+265929067,Baby Food,Online,L,Malaj Khand,Madhya Pradesh,Municipality,3175,159.42,255.28,810514,506158.5,304355.5
+644772422,Beverages,Online,H,Sarangpur,Madhya Pradesh,Municipality,1343,31.79,47.45,63725.35,42693.97,21031.38
+959853875,Vegetables,Offline,C,Robertsganj,Uttar Pradesh,Municipal board,947,90.93,154.06,145894.82,86110.71,59784.11
+645597255,Vegetables,Online,C,Sirkali,Tamil Nadu,Municipality,5429,90.93,154.06,836391.74,493658.97,342732.77
+556738889,Baby Food,Offline,C,Radhanpur,Gujarat,Municipality,264,159.42,255.28,67393.92,42086.88,25307.04
+718327605,Vegetables,Online,M,Tiruchendur,Tamil Nadu,Town Panchayat,7956,90.93,154.06,1225701.36,723439.08,502262.28
+775724732,Baby Food,Offline,L,Utraula,Uttar Pradesh,Nagar Palika Parishad.,3041,159.42,255.28,776306.48,484796.22,291510.26
+444604098,Baby Food,Offline,H,Patratu,Jharkhand,Census town,7088,159.42,255.28,1809424.64,1129968.96,679455.68
+860952031,Beverages,Online,C,"Vijainagar, Ajmer",Rajasthan,Municipality,3693,31.79,47.45,175232.85,117400.47,57832.38
+531067359,Meat,Offline,C,Periyasemur,Tamil Nadu,Town Panchayat,3488,364.69,421.89,1471552.32,1272038.72,199513.6
+281561410,Cosmetics,Offline,M,Pathri,Maharashtra,Municipal Council,9133,263.33,437.2,3992947.6,2404992.89,1587954.71
+109358012,Personal Care,Offline,L,Sadabad,Uttar Pradesh,Nagar Panchayat,321,56.67,81.73,26235.33,18191.07,8044.26
+531693494,Beverages,Online,L,Talikota,Karnataka,Town Municipal Council,8775,31.79,47.45,416373.75,278957.25,137416.5
+336116683,Clothes,Offline,C,Sinnar,Maharashtra,Municipal Council,3251,35.84,109.28,355269.28,116515.84,238753.44
+630488908,Cereal,Offline,M,Mungeli,Chhattisgarh,Urban Agglomeration,4534,117.11,205.7,932643.8,530976.74,401667.06
+792983996,Fruits,Online,L,Sedam,Karnataka,Town Municipal Council,441,6.92,9.33,4114.53,3051.72,1062.81
+722088277,Fruits,Online,C,Shikaripur,Karnataka,Town Municipal Council,822,6.92,9.33,7669.26,5688.24,1981.02
+386600577,Cosmetics,Online,H,Sumerpur,Rajasthan,Municipality,2557,263.33,437.2,1117920.4,673334.81,444585.59
+275632226,Beverages,Offline,L,Sattur,Tamil Nadu,Municipality,4556,31.79,47.45,216182.2,144835.24,71346.96
+948607051,Vegetables,Offline,H,Sugauli,Bihar,Notified area,2761,90.93,154.06,425359.66,251057.73,174301.93
+785261380,Cereal,Online,H,Lumding,Assam,Municipal board,5147,117.11,205.7,1058737.9,602765.17,455972.73
+935644042,Cereal,Online,C,Vandavasi,Tamil Nadu,Municipality,6719,117.11,205.7,1382098.3,786862.09,595236.21
+370116364,Snacks,Offline,M,Titlagarh,Odisha,Notified area committee / Notified Area Council ,4512,97.44,152.58,688440.96,439649.28,248791.68
+829352176,Beverages,Online,C,Uchgaon,Maharashtra,Census town,2594,31.79,47.45,123085.3,82463.26,40622.04
+974337804,Household,Online,M,Mokokchung,Nagaland,Town Committee / Town Area Committee,7063,502.54,668.27,4719991.01,3549440.02,1170550.99
+436372077,Household,Online,H,Paschim Punropara,West Bengal,Census town,1050,502.54,668.27,701683.5,527667,174016.5
+267066323,Cereal,Offline,M,Sagwara,Rajasthan,Municipality,9715,117.11,205.7,1998375.5,1137723.65,860651.85
+688344371,Fruits,Online,M,Ramganj Mandi,Rajasthan,Municipality,5251,6.92,9.33,48991.83,36336.92,12654.91
+642442548,Cosmetics,Offline,M,Tarakeswar,West Bengal,Municipality,1881,263.33,437.2,822373.2,495323.73,327049.47
+941909682,Cereal,Online,C,Mahalingapura,Karnataka,Town Municipal Council,861,117.11,205.7,177107.7,100831.71,76275.99
+219607102,Beverages,Offline,C,Dharmanagar,Tripura,Municipal Council,5477,31.79,47.45,259883.65,174113.83,85769.82
+778708636,Personal Care,Offline,H,Mahemdabad,Gujarat,Municipality,6045,56.67,81.73,494057.85,342570.15,151487.7
+942700612,Beverages,Online,M,Manendragarh,Chhattisgarh,Municipality,4915,31.79,47.45,233216.75,156247.85,76968.9
+905381858,Household,Offline,H,Uran,Maharashtra,Municipal Council,1466,502.54,668.27,979683.82,736723.64,242960.18
+480863702,Meat,Online,C,Tharamangalam,Tamil Nadu,Town Panchayat,7110,364.69,421.89,2999637.9,2592945.9,406692
+453569972,Cosmetics,Online,L,Tirukkoyilur,Tamil Nadu,Town Panchayat,289,263.33,437.2,126350.8,76102.37,50248.43
+328236997,Baby Food,Offline,H,Pen,Maharashtra,Municipal Council,1476,159.42,255.28,376793.28,235303.92,141489.36
+579913604,Personal Care,Offline,C,Makhdumpur,Bihar,Notified area,8177,56.67,81.73,668306.21,463390.59,204915.62
+403961122,Cosmetics,Online,H,Maner,Bihar,Notified area,9928,263.33,437.2,4340521.6,2614340.24,1726181.36
+866053378,Cosmetics,Offline,L,Oddanchatram,Tamil Nadu,Town Panchayat,3295,263.33,437.2,1440574,867672.35,572901.65
+852176702,Household,Offline,C,Palladam,Tamil Nadu,Town Panchayat,6878,502.54,668.27,4596361.06,3456470.12,1139890.94
+218629920,Baby Food,Online,M,Mundi,Madhya Pradesh,Nagar Panchayat,6307,159.42,255.28,1610050.96,1005461.94,604589.02
+242024362,Baby Food,Offline,C,Nabarangapur,Odisha,Municipality,9242,159.42,255.28,2359297.76,1473359.64,885938.12
+469283854,Snacks,Offline,M,Mudalagi,Karnataka,Town Municipal Council,376,97.44,152.58,57370.08,36637.44,20732.64
+967644727,Fruits,Online,C,Samalkha,Haryana,Municipal Committee,6433,6.92,9.33,60019.89,44516.36,15503.53
+974655807,Cosmetics,Offline,L,Nepanagar,Madhya Pradesh,Municipality,1167,263.33,437.2,510212.4,307306.11,202906.29
+248178422,Vegetables,Online,M,Karjat,Maharashtra,Municipal Council,365,90.93,154.06,56231.9,33189.45,23042.45
+416386401,Vegetables,Offline,L,Ranavav,Gujarat,Urban Agglomeration,6844,90.93,154.06,1054386.64,622324.92,432061.72
+927766072,Snacks,Offline,L,Pedana,Andhra Pradesh,Nagar Panchayat,5453,97.44,152.58,832018.74,531340.32,300678.42
+401116263,Vegetables,Online,M,Pinjore,Haryana,Urban Agglomeration,8071,90.93,154.06,1243418.26,733896.03,509522.23
+675548303,Fruits,Offline,H,Lakheri,Rajasthan,Municipality,8610,6.92,9.33,80331.3,59581.2,20750.1
+960486018,Baby Food,Online,L,Pasan,Madhya Pradesh,Municipality,8012,159.42,255.28,2045303.36,1277273.04,768030.32
+985665738,Clothes,Offline,L,Puttur,Andhra Pradesh,Census town,9250,35.84,109.28,1010840,331520,679320
+551136291,Clothes,Offline,C,Vadakkuvalliyur,Tamil Nadu,Town Panchayat,2331,35.84,109.28,254731.68,83543.04,171188.64
+877259004,Cereal,Online,L,Tirukalukundram,Tamil Nadu,Town Panchayat,9289,117.11,205.7,1910747.3,1087834.79,822912.51
+554707705,Beverages,Offline,M,Mahidpur,Madhya Pradesh,Urban Agglomeration,9192,31.79,47.45,436160.4,292213.68,143946.72
+494468724,Cereal,Offline,L,Mussoorie,Uttarakhand,Urban Agglomeration,3139,117.11,205.7,645692.3,367608.29,278084.01
+777840888,Personal Care,Online,H,Muvattupuzha,Kerala,Municipality,9259,56.67,81.73,756738.07,524707.53,232030.54
+206435525,Baby Food,Offline,C,Rasra,Uttar Pradesh,Municipal board,7714,159.42,255.28,1969229.92,1229765.88,739464.04
+352176463,Office Supplies,Online,C,Udaipurwati,Rajasthan,Municipality,5696,524.96,651.21,3709292.16,2990172.16,719120
+607300031,Cosmetics,Offline,C,Manwath,Maharashtra,Municipal Council,2429,263.33,437.2,1061958.8,639628.57,422330.23
+434355056,Baby Food,Online,H,Adoor,Kerala,Municipality,4168,159.42,255.28,1064007.04,664462.56,399544.48
+716202867,Fruits,Offline,M,Uthamapalayam,Tamil Nadu,Town Panchayat,9199,6.92,9.33,85826.67,63657.08,22169.59
+606017291,Personal Care,Online,H,Partur,Maharashtra,Municipal Council,2838,56.67,81.73,231949.74,160829.46,71120.28
+677284657,Cereal,Offline,H,Nahan,Himachal Pradesh,Municipal Council,2436,117.11,205.7,501085.2,285279.96,215805.24
+673803794,Fruits,Online,C,Ladwa,Haryana,Municipal Committee,2371,6.92,9.33,22121.43,16407.32,5714.11
+859686028,Cereal,Offline,C,Mankachar,Assam,Census town,9055,117.11,205.7,1862613.5,1060431.05,802182.45
+669355189,Clothes,Online,H,Nongstoin,Meghalaya,Town Committee / Town Area Committee,5930,35.84,109.28,648030.4,212531.2,435499.2
+957547605,Fruits,Offline,L,Losal,Rajasthan,Municipality,8470,6.92,9.33,79025.1,58612.4,20412.7
+849312102,Personal Care,Online,M,Sri Madhopur,Rajasthan,Municipality,9180,56.67,81.73,750281.4,520230.6,230050.8
+890010011,Personal Care,Offline,H,Ramngarh,Rajasthan,Municipality,2595,56.67,81.73,212089.35,147058.65,65030.7
+795315158,Cereal,Online,H,Mavelikkara,Kerala,Municipality,284,117.11,205.7,58418.8,33259.24,25159.56
+801213872,Clothes,Offline,M,Rawatsar,Rajasthan,Municipality,5844,35.84,109.28,638632.32,209448.96,429183.36
+314004981,Fruits,Offline,C,Rajakhera,Rajasthan,Municipality,9907,6.92,9.33,92432.31,68556.44,23875.87
+160299813,Cereal,Online,C,Lar,Uttar Pradesh,Nagar Panchayat,5132,117.11,205.7,1055652.4,601008.52,454643.88
+337022197,Beverages,Offline,C,Lal Gopalganj Nindaura,Uttar Pradesh,Nagar Panchayat,1212,31.79,47.45,57509.4,38529.48,18979.92
+461408460,Snacks,Offline,M,Muddebihal,Karnataka,Town Municipal Council,9872,97.44,152.58,1506269.76,961927.68,544342.08
+221007430,Office Supplies,Offline,M,Sirsaganj,Uttar Pradesh,Urban Agglomeration,9865,524.96,651.21,6424186.65,5178730.4,1245456.25
+723680436,Snacks,Offline,L,Shahpura,Rajasthan,Municipality,1978,97.44,152.58,301803.24,192736.32,109066.92
+447601306,Fruits,Offline,L,Surandai,Tamil Nadu,Town Panchayat,4028,6.92,9.33,37581.24,27873.76,9707.48
+191256368,Clothes,Offline,L,Sangole,Maharashtra,Municipal Council,5864,35.84,109.28,640817.92,210165.76,430652.16
+823444449,Vegetables,Offline,L,Pavagada,Karnataka,Town Panchayat,4366,90.93,154.06,672625.96,397000.38,275625.58
+133276879,Beverages,Online,C,Tharad,Gujarat,Municipality,8445,31.79,47.45,400715.25,268466.55,132248.7
+480177485,Meat,Online,H,Mansa,Gujarat,Municipality,4043,364.69,421.89,1705701.27,1474441.67,231259.6
+243882596,Household,Offline,H,Umbergaon,Gujarat,Municipality,9135,502.54,668.27,6104646.45,4590702.9,1513943.55
+574441039,Cosmetics,Online,L,Mavoor,Kerala,Census town,8724,263.33,437.2,3814132.8,2297290.92,1516841.88
+442214143,Household,Online,M,Nalbari,Assam,Municipal board,9847,502.54,668.27,6580454.69,4948511.38,1631943.31
+687875735,Clothes,Offline,C,Talaja,Gujarat,Municipality,6571,35.84,109.28,718078.88,235504.64,482574.24
+872412145,Clothes,Offline,H,Malur,Karnataka,Town Municipal Council,4995,35.84,109.28,545853.6,179020.8,366832.8
+627122199,Fruits,Offline,C,Mangrulpir,Maharashtra,Municipal Council,8250,6.92,9.33,76972.5,57090,19882.5
+103617227,Fruits,Online,M,Soro,Odisha,Notified area committee / Notified Area Council,1495,6.92,9.33,13948.35,10345.4,3602.95
+423821055,Vegetables,Offline,M,Shahpura,Rajasthan,Municipality,6923,90.93,154.06,1066557.38,629508.39,437048.99
+529970014,Vegetables,Online,L,Vadnagar,Gujarat,Municipality,8759,90.93,154.06,1349411.54,796455.87,552955.67
+334612929,Personal Care,Offline,H,Raisinghnagar,Rajasthan,Municipality,8256,56.67,81.73,674762.88,467867.52,206895.36
+270611131,Beverages,Offline,M,Sindhagi,Karnataka,Town Municipal Council,8702,31.79,47.45,412909.9,276636.58,136273.32
+841138446,Office Supplies,Online,C,Sanduru,Karnataka,Town Panchayat,413,524.96,651.21,268949.73,216808.48,52141.25
+369681203,Household,Online,M,Sohna,Haryana,Municipal Committee,5738,502.54,668.27,3834533.26,2883574.52,950958.74
+850038230,Household,Offline,M,Manavadar,Gujarat,Municipality,4057,502.54,668.27,2711171.39,2038804.78,672366.61
+296320855,Beverages,Online,M,Pihani,Uttar Pradesh,Municipal board,6781,31.79,47.45,321758.45,215567.99,106190.46
+392952907,Cosmetics,Offline,L,Safidon,Haryana,Municipal Committee,2352,263.33,437.2,1028294.4,619352.16,408942.24
+644670712,Snacks,Online,M,Risod,Maharashtra,Municipal Council,1245,97.44,152.58,189962.1,121312.8,68649.3
+626523101,Meat,Online,L,Rosera,Bihar,Municipality,963,364.69,421.89,406280.07,351196.47,55083.6
+433871400,Vegetables,Offline,M,Sankari,Tamil Nadu,Town Panchayat,1044,90.93,154.06,160838.64,94930.92,65907.72
+232389438,Snacks,Offline,M,Malpura,Rajasthan,Urban Agglomeration,8054,97.44,152.58,1228879.32,784781.76,444097.56
+708063542,Cereal,Offline,H,Sonamukhi,West Bengal,Municipality,592,117.11,205.7,121774.4,69329.12,52445.28
+817192542,Vegetables,Offline,H,"Shamsabad, Agra",Uttar Pradesh,Municipal board,4288,90.93,154.06,660609.28,389907.84,270701.44
+936387765,Meat,Offline,H,Nokha,Bihar,Nagar Panchayat,6803,364.69,421.89,2870117.67,2480986.07,389131.6
+612573039,Clothes,Offline,H,PandUrban Agglomeration,West Bengal,Census town,2830,35.84,109.28,309262.4,101427.2,207835.2
+812984693,Clothes,Online,M,Mainaguri,West Bengal,Census town,9092,35.84,109.28,993573.76,325857.28,667716.48
+775171554,Meat,Offline,C,Afzalpur,Karnataka,Town Panchayat,9344,364.69,421.89,3942140.16,3407663.36,534476.8
+256994950,Household,Online,H,Shirur,Maharashtra,Municipal Council,9372,502.54,668.27,6263026.44,4709804.88,1553221.56
+886628711,Beverages,Offline,M,Salaya,Gujarat,Municipality,1993,31.79,47.45,94567.85,63357.47,31210.38
+312559163,Beverages,Online,C,Shenkottai,Tamil Nadu,Municipality,2057,31.79,47.45,97604.65,65392.03,32212.62
+753585135,Cereal,Online,L,Pratapgarh,Tripura,Census town,1443,117.11,205.7,296825.1,168989.73,127835.37
+448817956,Beverages,Offline,H,Vadipatti,Tamil Nadu,Town Panchayat,4062,31.79,47.45,192741.9,129130.98,63610.92
+407681453,Clothes,Offline,M,Nagarkurnool,Telangana,Census town,856,35.84,109.28,93543.68,30679.04,62864.64
+359911954,Snacks,Online,H,Savner,Maharashtra,Municipal Council,4800,97.44,152.58,732384,467712,264672
+105558288,Office Supplies,Offline,M,Sasvad,Maharashtra,Municipal Council,5898,524.96,651.21,3840836.58,3096214.08,744622.5
+864981782,Personal Care,Offline,H,Rudrapur,Uttar Pradesh,Nagar Panchayat,6186,56.67,81.73,505581.78,350560.62,155021.16
+328856265,Office Supplies,Online,C,Soron,Uttar Pradesh,Municipal board,4732,524.96,651.21,3081525.72,2484110.72,597415
+308168065,Clothes,Offline,H,Sholingur,Tamil Nadu,Town Panchayat,2633,35.84,109.28,287734.24,94366.72,193367.52
+884216010,Household,Offline,L,Pandharkaoda,Maharashtra,Municipal Council,8021,502.54,668.27,5360193.67,4030873.34,1329320.33
+858611428,Snacks,Offline,M,Perumbavoor,Kerala,Municipality,1057,97.44,152.58,161277.06,102994.08,58282.98
+903278148,Cereal,Online,L,Maddur,Karnataka,Town Municipal Council,8932,117.11,205.7,1837312.4,1046026.52,791285.88
+410452497,Beverages,Online,L,Nadbai,Rajasthan,Municipality,870,31.79,47.45,41281.5,27657.3,13624.2
+642683303,Cereal,Offline,H,Talode,Maharashtra,Municipal Council,3126,117.11,205.7,643018.2,366085.86,276932.34
+682831895,Beverages,Offline,L,Shrigonda,Maharashtra,Municipal Council,3987,31.79,47.45,189183.15,126746.73,62436.42
+584072101,Baby Food,Online,L,Madhugiri,Karnataka,Town Municipal Council,8769,159.42,255.28,2238550.32,1397953.98,840596.34
+919890248,Meat,Offline,C,Tekkalakote,Karnataka,Town Panchayat,4821,364.69,421.89,2033931.69,1758170.49,275761.2
+534085166,Snacks,Offline,C,Seoni-Malwa,Madhya Pradesh,Municipality,6524,97.44,152.58,995431.92,635698.56,359733.36
+590768182,Baby Food,Offline,H,Shirdi,Maharashtra,Municipal Council,288,159.42,255.28,73520.64,45912.96,27607.68
+524363124,Vegetables,Online,C,SUrban Agglomerationr,Uttar Pradesh,Municipal board,9556,90.93,154.06,1472197.36,868927.08,603270.28
+289606320,Household,Offline,L,Terdal,Karnataka,Town Municipal Council,9801,502.54,668.27,6549714.27,4925394.54,1624319.73
+811546599,Cereal,Offline,C,Raver,Maharashtra,Municipal Council,3528,117.11,205.7,725709.6,413164.08,312545.52
